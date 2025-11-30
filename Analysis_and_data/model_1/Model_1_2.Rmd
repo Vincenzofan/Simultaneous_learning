@@ -1,0 +1,160 @@
+---
+title: "Model_2_2"
+author: "Vincent Fan"
+date: "2025-11-08"
+output: html_document
+---
+
+#### Load packages
+
+```{r, echo=FALSE}
+require(ggplot2)
+require(emmeans)
+require(tidyverse)
+require(plyr)
+require(glmmTMB)
+require(performance)
+require(DHARMa)
+```
+
+#### Load data
+
+```{r, echo=FALSE}
+words <- read_csv("model_1_data.csv") %>% #load cleaned data
+  mutate(Participant = factor(Participant),
+         Time = factor(Time),
+         Word = factor(IA_LABEL))
+
+```
+```{r}
+non_zero <- words %>%
+  filter(IA_DWELL_TIME!=0)%>%
+  mutate(IA_FIRST_FIXATION_DURATION = as.integer(IA_FIRST_FIXATION_DURATION)) %>% 
+  mutate(rffd = IA_FIRST_FIXATION_DURATION/IA_DURATION) %>%
+  filter(rffd <=1)
+```
+
+```{r}
+# Outlier removal with model criticism
+beta.0 <- glmmTMB(data = non_zero, 
+                  family = beta_family(),
+                  formula = rffd ~ Time * (Dutch_proficiency + English_proficiency) + (1|Participant) + (1|Word),
+                  control = glmmTMBControl(rank_check = "adjust"),
+                  verbose = F)
+res <- residuals(beta.0, type = "response")
+sd_res <- res/sd(res) #standardised residuals
+outliners <- abs(sd_res)>2.5 #observations with standardised residuals > 2.5
+non_zero <- non_zero[!outliners, ]
+```
+
+#### Descriptives 
+
+```{r}
+non_zero %>% 
+  group_by(Time) %>%
+  dplyr::summarise(RFFD = mean(rffd),
+                      sd = sd(rffd))
+```
+#### Model fitting 
+
+```{r}
+beta.1 <- glmmTMB(data = non_zero, 
+                  family = beta_family(),
+                  formula = rffd ~ Time * (Dutch_proficiency + English_proficiency) + (1|Participant) + (1|Word),
+                  control = glmmTMBControl(rank_check = "adjust"))
+summary(beta.1)
+```
+
+```{r}
+r2_nakagawa(beta.1)
+```
+```{r}
+#check model fitting with DHARMA
+simulated_res = simulateResiduals(beta.1, n = 1000)
+```
+```{r}
+testUniformity(simulated_res)
+testOutliers(simulated_res)
+testDispersion(simulated_res)
+plotResiduals(simulated_res)
+```
+
+#### Visualisation
+
+```{r}
+#same as model 1.1
+new_data <- expand.grid(
+  Time = levels(non_zero$Time),
+  English_proficiency = seq(0, 100, 5),
+  Dutch_proficiency = seq(0, 100, 5)
+) 
+
+predictions <- new_data %>%
+  mutate(rffd = predict(beta.1,
+                       newdata = new_data,
+                       type = "response",
+                       re.form = NA))
+```
+```{r}
+rffd_pat <- non_zero %>%
+  group_by(Participant, Time) %>%
+  dplyr::summarise(du = mean(Dutch_proficiency),
+                   en = mean(English_proficiency),
+                   avg_rffd = mean(rffd)) 
+```
+
+```{r}
+ggplot(data = predictions,
+       mapping = aes(x=English_proficiency, y=Dutch_proficiency))+
+  geom_tile(mapping = aes(fill = rffd),
+            colour = "grey")+
+  scale_fill_gradient(low = "white", high = "black")+
+  geom_point(data = rffd_pat,
+             mapping = aes(x=en, y=du,
+                           alpha = avg_rffd),
+             shape = 21,
+             fill = "white",
+             colour = "black")+
+  scale_alpha_binned("Avg. RFFD per participant", range = c(0,1.2))+
+  facet_wrap(~factor(Time, labels = c("Episode 1", "Episode 10")))+
+  coord_fixed()+
+  theme_classic()+
+  labs(
+    title = "Relative First Fixation Duration (RFFD) in Episode 1 and 10",
+    fill = "Predicted RFFD",
+    x = "English Proficiency",
+    y = "Dutch Proficiency")+
+  theme(
+    title = element_text(size = 9, face = "bold"),
+    axis.title = element_text(size = 10, face = "bold"),
+    legend.title = element_text(size = 8, face = "bold"),
+    legend.position = "right",
+    legend.box.spacing = unit(0.1, units = "cm"),
+    legend.text = element_text(size = 8),
+    legend.key.size = unit(0.4, units = "cm"))
+ggsave("heatmap_greyscale_rffd.png", width = 7, height =3.5)
+```
+#### Post-hoc analysis with emmeans
+
+```{r}
+# Marginal effect of time regardless of interactions
+emmeans(beta.1,
+        pairwise~Time,
+        at = list(English_proficiency = mean(non_zero$English_proficiency), 
+                  Dutch_proficiency = mean(non_zero$Dutch_proficiency)),
+        type = "response")
+```
+```{r}
+#Interaction with proficiency
+
+test(emtrends(beta.1, pairwise ~ Time, var = "Dutch_proficiency"))
+```
+```{r}
+test(emtrends(beta.1,
+              pairwise ~ Time,
+              var = "English_proficiency"))
+```
+
+
+
+

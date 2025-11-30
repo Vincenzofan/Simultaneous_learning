@@ -1,0 +1,111 @@
+---
+title: "Model_3"
+author: "Removed"
+date: "2025-11-08"
+output: html_document
+---
+
+#### Load package
+
+```{r}
+require(tidyverse)
+require(emmeans)
+require(performance)
+require(scales)
+require(lme4)
+require(DHARMa)
+require(EnvStats)
+source("utils.R")
+```
+
+#### Load data
+```{r}
+MWU <- read_csv(file = "model_3_data.csv", show_col_types = F)
+MWU <- MWU[MWU$IA_LABEL!="ik weet niet", ] %>%
+  mutate(Participant = factor(Participant)) %>%
+  mutate(rdt = IA_DWELL_TIME/IA_DURATION) %>%
+  mutate(IA_FIRST_FIXATION_DURATION = 
+           replace(IA_FIRST_FIXATION_DURATION,
+                   IA_FIRST_FIXATION_DURATION==".",
+                   "0")) %>%
+  mutate(IA_FIRST_FIXATION_DURATION = as.integer(IA_FIRST_FIXATION_DURATION)) %>%
+  mutate(rffd = IA_FIRST_FIXATION_DURATION/IA_DURATION) %>%
+  mutate(IA_SKIP = factor(IA_SKIP)) %>%
+  mutate(Time = factor(Time)) %>%
+  mutate(Frequency_TGP = minMaxScale(Frequency_TGP)) %>%
+  mutate(Dutch_proficiency = minMaxScale(Dutch_proficiency)) %>%
+  mutate(English_proficiency = minMaxScale(English_proficiency)) %>%
+  mutate(Categorical_score = Categorical_score-1) %>%
+  mutate(skipped = ifelse(rdt==0, 1, 0)) %>%
+  mutate(skipped = as.factor(skipped))
+```
+
+
+```{r}
+logistic <- glmer(data = MWU,
+                  formula = "Categorical_score ~ (skipped + Dutch_proficiency) * Time + (1|Participant) + (1|IA_LABEL)",
+                  family = "binomial",
+                  control = glmerControl(optimizer = "bobyqa"))
+summary(logistic)
+```
+
+#### Model fitting
+
+```{r}
+#check model fitting with DHARMA
+simulated_res = simulateResiduals(logistic, n = 1000)
+```
+```{r}
+testUniformity(simulated_res)
+testOutliers(simulated_res)
+testDispersion(simulated_res)
+plotResiduals(simulated_res)
+```
+```{r}
+r2_nakagawa(logistic)
+```
+#### Visualisation
+
+```{r}
+emm <- emmip(logistic,
+      skipped~Dutch_proficiency|Time,
+      at = list(Dutch_proficiency = seq(0,1,0.05)),
+      type = "response",
+      plotit = F,
+      CIs = F)
+
+ggplot(data = emm,
+       mapping = aes(x=Dutch_proficiency,
+                     y=yvar,
+                     linetype = factor(tvar, labels = c("Unskipped", "Skipped"))))+
+  geom_line()+
+  facet_wrap(~factor(Time, labels = c("Episode 1", "Episode 10")))+
+  theme_classic()+
+  labs(
+    title = "Effects of Dutch proficiency on Learning Probability for Episode 1 and Episode 10",
+    linetype = "Skipping",
+    x = "Dutch Proficiency",
+    y = "Predicted Learning Probability")+
+  theme(
+    title = element_text(size = 6, face = "bold"),
+    axis.title = element_text(size = 10, face = "bold"),
+    legend.title = element_text(size = 8, face = "bold"),
+    legend.position = "inside",
+    legend.position.inside = c(0.11,0.80),
+    legend.box.spacing = unit(0.1, units = "cm"),
+    legend.text = element_text(size = 8))
+
+ggsave("learning_greyscale.png", width = 6, height = 3, units = "in")
+```
+
+#### Post-hoc analysis
+
+```{r}
+test(emtrends(logistic, pairwise ~ Time, var = "Dutch_proficiency"))
+```
+
+```{r}
+test(emmeans(logistic, 
+         pairwise ~ Time * skipped,
+         type = "response"))
+```

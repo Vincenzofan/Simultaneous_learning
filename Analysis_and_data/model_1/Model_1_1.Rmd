@@ -1,0 +1,238 @@
+---
+title: "Model_2_1"
+author: "Removed"
+date: "2025-11-07"
+output: html_document
+---
+
+#### Load packages
+
+```{r, echo=FALSE}
+require(ggplot2)
+require(emmeans)
+require(tidyverse)
+require(plyr)
+require(glmmTMB)
+require(performance)
+require(DHARMa)
+```
+
+#### Load data
+
+```{r, echo=FALSE}
+words <- read_csv("model_1_data.csv") %>% #load cleaned data
+  mutate(Participant = factor(Participant),
+         Time = factor(Time),
+         Word = factor(IA_LABEL))
+
+```
+```{r}
+# Outlier removal - Model criticism 
+zibeta.0 <- glmmTMB(data = words,
+                    formula = rdt ~ Time * (Dutch_proficiency + English_proficiency) + (1|Participant) + (1|Word),
+                    family = beta_family(),
+                    ziformula = ~ Time * (Dutch_proficiency + English_proficiency) + (1|Participant) + (1|Word),# binomial part, using the same predictors as the main model 
+                    control = glmmTMBControl(rank_check = "adjust")) 
+res <- residuals(zibeta.0, type = "response")
+sd_res <- res/sd(res) #standardised residuals
+outliners <- abs(sd_res)>2.5 #observations with standardised residuals > 2.5
+words <- words[!outliners, ]
+```
+
+#### Descriptives
+
+```{r}
+#descriptives 
+
+words %>%
+  group_by(Time, Participant) %>%
+  dplyr::summarise(total = n(),
+         skipped = sum(rdt==0)) %>%
+  mutate(skipping_rate = skipped/total) %>%
+  group_by(Time) %>%
+    dplyr::summarise(
+      skippingRate = mean(skipping_rate),
+      sd = sd(skipping_rate))
+```
+```{r}
+words %>% filter(IA_DWELL_TIME!=0) %>%
+  group_by(Time) %>%
+  dplyr::summarise(RDT = mean(rdt),
+                    sd = sd(rdt))
+
+```
+#### Model fitting
+
+```{r}
+# fit the model again
+zibeta.1 <- glmmTMB(data = words,
+                        rdt ~ Time * (Dutch_proficiency + English_proficiency) + (1|Participant) + (1|Word),
+                        family = beta_family(),
+                        ziformula = ~ Time * (Dutch_proficiency + English_proficiency) + (1|Participant) + (1|Word),
+                  control = glmmTMBControl(rank_check = "adjust")) # binomial part, using the same predictors as the main model 
+summary(zibeta.1)
+```
+
+
+```{r}
+r2_zeroinflated(zibeta.1, method = "default")
+```
+
+
+```{r}
+#check model fitting with DHARMA
+simulated_res = simulateResiduals(zibeta.1, n = 1000)
+```
+```{r}
+testUniformity(simulated_res)
+testOutliers(simulated_res)
+testDispersion(simulated_res)
+plotResiduals(simulated_res)
+```
+
+#### Visualisation
+
+```{r}
+#make predictions with new data for visualisations
+new_data <- expand.grid(
+  Time = levels(words$Time),
+  English_proficiency = seq(0, 100, 5),
+  Dutch_proficiency = seq(0, 100, 5)
+) 
+
+predictions <- new_data %>%
+  mutate(rdt = predict(zibeta.1,
+                       newdata = new_data,
+                       type = "response", # rdt on condition of non skipping
+                       re.form = NA)) %>%
+  mutate(skipping = predict(zibeta.1,
+                       newdata = new_data,
+                       type = "zprob", # skipping probability
+                       re.form = NA))
+```
+
+```{r}
+# prepare observed data, averaged by participant
+by_participant <- words %>%
+  group_by(Participant, Time) %>%
+  dplyr::summarise(n=n(),
+                   skipped = sum(rdt==0),
+                   total = sum(rdt),
+                   du = mean(Dutch_proficiency),
+                   en = mean(English_proficiency)) %>%
+  mutate(unskipped = n-skipped,
+         expected = total/unskipped,
+         skipping_rate = skipped/n)
+```
+```{r}
+ggplot(data = predictions,
+       mapping = aes(x=English_proficiency, y=Dutch_proficiency))+
+  geom_tile(mapping = aes(fill = rdt),
+            colour = "grey")+
+  scale_fill_gradient(low = "white", high = "black")+
+  geom_point(data = by_participant,
+             mapping = aes(x=en, y=du,
+                           # size = expected,
+                           alpha = expected),
+             shape = 21,
+             fill = "white",
+             colour = "black")+
+  scale_alpha_binned("Avg. RDT per participant", range = c(0,1.2))+
+  facet_wrap(~factor(Time, labels = c("Episode 1", "Episode 10")))+
+  coord_fixed()+
+  theme_classic()+
+  labs(
+    title = "Relative Dwell Time (RDT) in Episode 1 and 10",
+    fill = "Predicted RDT",
+    x = "English Proficiency",
+    y = "Dutch Proficiency")+
+  theme(
+    title = element_text(size = 9, face = "bold"),
+    axis.title = element_text(size = 10, face = "bold"),
+    legend.title = element_text(size = 8, face = "bold"),
+    legend.position = "right",
+    legend.box.spacing = unit(0.1, units = "cm"),
+    legend.text = element_text(size = 8),
+    legend.key.size = unit(0.4, units = "cm"))
+ggsave("heatmap_greyscale_rdt.png", width = 7, height = 3.5)
+```
+```{r}
+ggplot(data = predictions,
+       mapping = aes(x=English_proficiency, y=Dutch_proficiency))+
+  geom_tile(mapping = aes(fill = skipping),
+            colour = "grey")+
+  scale_fill_gradient(low = "white", high = "black")+
+  geom_point(data = by_participant,
+             mapping = aes(x=en, y=du,
+                           # size = expected,
+                           alpha = skipping_rate),
+             shape = 21,
+             fill = "white",
+             colour = "black")+
+  scale_alpha_binned("Avg. skipping rate per participant", range = c(0,1.2))+
+  facet_wrap(~factor(Time, labels = c("Episode 1", "Episode 10")))+
+  coord_fixed()+
+  theme_classic()+
+  labs(
+    title = "Skipping Rates in Episode 1 and 10",
+    fill = "Predicted skipping rate",
+    x = "English Proficiency",
+    y = "Dutch Proficiency")+
+  theme(
+    title = element_text(size = 9, face = "bold"),
+    axis.title = element_text(size = 10, face = "bold"),
+    legend.title = element_text(size = 8, face = "bold"),
+    legend.position = "right",
+    legend.box.spacing = unit(0.1, units = "cm"),
+    legend.text = element_text(size = 8),
+    legend.key.size = unit(0.4, units = "cm"))
+ggsave("heatmap_greyscale_skipping.png", width = 7, height = 3.5)
+```
+#### Post-hoc analysis with emmeans
+
+##### Skipping 
+
+```{r}
+# Marginal effect of time regardless of interactions
+emmeans(zibeta.1,
+        pairwise~Time,
+        at = list(English_proficiency = mean(words$English_proficiency), 
+                  Dutch_proficiency = mean(words$Dutch_proficiency)),
+        component = "zi",
+        type = "response")
+```
+```{r}
+# Interaction with proficiency scores
+test(emtrends(zibeta.1,
+              pairwise ~ Time,
+              var = "English_proficiency",
+              component = "zi"))
+```
+```{r}
+test(emtrends(zibeta.1,
+              pairwise ~ Time,
+              var = "Dutch_proficiency",
+              component = "zi"))
+```
+##### RDT
+```{r}
+# Marginal effect of time regardless of interactions
+emmeans(zibeta.1,
+        pairwise~Time,
+        at = list(English_proficiency = mean(words$English_proficiency), 
+                  Dutch_proficiency = mean(words$Dutch_proficiency)),
+        component = "cond",
+        type = "response")
+```
+```{r}
+# Interactions with proficiency scores
+test(emtrends(zibeta.1,
+              pairwise ~ Time,
+              var = "English_proficiency"))
+```
+```{r}
+# Interactions with proficiency scores
+test(emtrends(zibeta.1,
+              pairwise ~ Time,
+              var = "Dutch_proficiency"))
+```
