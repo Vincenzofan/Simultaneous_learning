@@ -15,7 +15,6 @@ require(scales)
 require(lme4)
 require(DHARMa)
 require(EnvStats)
-source("utils.R")
 ```
 
 #### Load data
