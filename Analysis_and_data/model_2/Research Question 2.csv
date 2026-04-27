@@ -1,0 +1,2081 @@
+ItemID,Item,Frequency_TGP,Frequency_Corpora,Target/Control,Participant,Dutch_proficiency,English_proficiency,Time,Score,Categorical_score,Language
+1,to drop me off,,10661,0,3,51,78,1,2,1,English
+2,a rough patch,,1193,0,3,51,78,1,1,1,English
+3,give me a ride,,8601,0,3,51,78,1,2,1,English
+4,to plug in,,2268,0,3,51,78,1,2,1,English
+5,to keep up,,20554,0,3,51,78,1,2,1,English
+6,to be supposed to,18,158126,1,3,51,78,1,2,1,English
+7,maid of honour,,2430,0,3,51,78,1,1,1,English
+8,I used to,7,68648,1,3,51,78,1,2,1,English
+9,on the same page,,2889,0,3,51,78,1,2,1,English
+10,a vow of silence,4,575,1,3,51,78,1,1,1,English
+11,no big deal,6,13979,1,3,51,78,1,2,1,English
+12,on your own,3,26888,1,3,51,78,1,2,1,English
+13,do for a living,3,4899,1,3,51,78,1,2,1,English
+14,Jalapeño poppers,4,60,1,3,51,78,1,1,1,English
+15,catch a cold,,2344,0,3,51,78,1,2,1,English
+18,why don't you,12,51952,1,3,51,78,1,2,1,English
+19,a marriage councelor,3,176,1,3,51,78,1,1,1,English
+20,proud of you,3,25471,1,3,51,78,1,2,1,English
+21,say no more,3,3487,1,3,51,78,1,2,1,English
+22,show somebody around,,4902,0,3,51,78,1,2,1,English
+23,figure out,15,89129,1,3,51,78,1,1,1,English
+24,break a promise,3,482,1,3,51,78,1,2,1,English
+25,give me a hand,,18448,0,3,51,78,1,2,1,English
+26,go ahead,3,130817,1,3,51,78,1,1,1,English
+27,pretend to be,5,18299,1,3,51,78,1,1,1,English
+29,to lie down,,22256,0,3,51,78,1,2,1,English
+30,I would rather,3,44548,1,3,51,78,1,2,1,English
+31,designated driver,3,611,1,3,51,78,1,1,1,English
+32,find a way to,4,20085,1,3,51,78,1,2,1,English
+33,stretch your legs,,1430,0,3,51,78,1,2,1,English
+34,to look for,3,15246,1,3,51,78,1,2,1,English
+36,look out for each other,,895,0,3,51,78,1,2,1,English
+37,best man,3,10717,1,3,51,78,1,2,1,English
+38,to show up,3,7125,1,3,51,78,1,2,1,English
+40,to make sure,3,46557,1,3,51,78,1,2,1,English
+41,to be allowed to,3,581,1,3,51,78,1,2,1,English
+42,let you down,3,8384,1,3,51,78,1,2,1,English
+43,grocery store,3,4060,1,3,51,78,1,2,1,English
+44,a bunch of,3,55410,1,3,51,78,1,2,1,English
+45,to get in touch with,,8118,0,3,51,78,1,2,1,English
+111,Ik heb beloofd,4,555,1,3,51,78,1,2.00,1,Dutch
+112,In deze buurt,10,5645,1,3,51,78,1,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,3,51,78,1,1.00,1,Dutch
+116,Zich vervelen,,1390,0,3,51,78,1,1.00,1,Dutch
+117,Je hoort hier,10,455,1,3,51,78,1,2.00,1,Dutch
+118,Maak in orde,,3388,0,3,51,78,1,1.00,1,Dutch
+119,Ik dacht dat,7,65317,1,3,51,78,1,2.00,1,Dutch
+200,Naar buiten,4,260816,1,3,51,78,1,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,3,51,78,1,2.00,1,Dutch
+202,Volgens mij,,435667,0,3,51,78,1,1.00,1,Dutch
+203,Gleed weg,,180,0,3,51,78,1,1.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,3,51,78,1,1.00,1,Dutch
+205,ik trakteer,,306,0,3,51,78,1,1.00,1,Dutch
+206,Geen zorgen,7,62783,1,3,51,78,1,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,3,51,78,1,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,3,51,78,1,1.00,1,Dutch
+209,Ik heb geen zin,,5288,0,3,51,78,1,1.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,3,51,78,1,1.00,1,Dutch
+211,Voor altijd,5,50382,1,3,51,78,1,1.00,1,Dutch
+212,Achter de rug,,57970,0,3,51,78,1,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,3,51,78,1,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,3,51,78,1,1.00,1,Dutch
+215,Dit is vreselijk,3,156,1,3,51,78,1,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,3,51,78,1,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,3,51,78,1,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,3,51,78,1,1.00,1,Dutch
+219,Zeg het maar,,3720,0,3,51,78,1,1.00,1,Dutch
+220,Mijn hele leven,3,11092,1,3,51,78,1,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,3,51,78,1,1.00,1,Dutch
+222,ga je mee,,4536,0,3,51,78,1,2.00,1,Dutch
+223,De slechte plek,15,139,1,3,51,78,1,1.00,1,Dutch
+224,Kijk maar,3,49858,1,3,51,78,1,2.00,1,Dutch
+225,Maak klaar,,5044,0,3,51,78,1,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,3,51,78,1,1.00,1,Dutch
+227,Iemand anders,5,108062,1,3,51,78,1,1.00,1,Dutch
+228,Leuk weetje,4,6535,1,3,51,78,1,2.00,1,Dutch
+229,De goeie plek,21,270,1,3,51,78,1,1.00,1,Dutch
+230,Ben gek op,,6409,0,3,51,78,1,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,3,51,78,1,2.00,1,Dutch
+232,Het spijt me,11,9737,1,3,51,78,1,2.00,1,Dutch
+1,to drop me off,,10661,0,4,39,65,1,2,1,English
+2,a rough patch,,1193,0,4,39,65,1,1,1,English
+3,give me a ride,,8601,0,4,39,65,1,1,1,English
+4,to plug in,,2268,0,4,39,65,1,2,1,English
+5,to keep up,,20554,0,4,39,65,1,2,1,English
+6,to be supposed to,18,158126,1,4,39,65,1,1,1,English
+7,maid of honour,,2430,0,4,39,65,1,2,1,English
+8,I used to,7,68648,1,4,39,65,1,2,1,English
+9,on the same page,,2889,0,4,39,65,1,1,1,English
+10,a vow of silence,4,575,1,4,39,65,1,2,1,English
+11,no big deal,6,13979,1,4,39,65,1,2,1,English
+12,on your own,3,26888,1,4,39,65,1,1,1,English
+13,do for a living,3,4899,1,4,39,65,1,1,1,English
+14,Jalapeño poppers,4,60,1,4,39,65,1,1,1,English
+15,catch a cold,,2344,0,4,39,65,1,2,1,English
+18,why don't you,12,51952,1,4,39,65,1,2,1,English
+19,a marriage councelor,3,176,1,4,39,65,1,1,1,English
+20,proud of you,3,25471,1,4,39,65,1,2,1,English
+21,say no more,3,3487,1,4,39,65,1,2,1,English
+22,show somebody around,,4902,0,4,39,65,1,1,1,English
+23,figure out,15,89129,1,4,39,65,1,2,1,English
+24,break a promise,3,482,1,4,39,65,1,2,1,English
+25,give me a hand,,18448,0,4,39,65,1,1,1,English
+26,go ahead,3,130817,1,4,39,65,1,2,1,English
+27,pretend to be,5,18299,1,4,39,65,1,2,1,English
+29,to lie down,,22256,0,4,39,65,1,2,1,English
+30,I would rather,3,44548,1,4,39,65,1,2,1,English
+31,designated driver,3,611,1,4,39,65,1,2,1,English
+32,find a way to,4,20085,1,4,39,65,1,2,1,English
+33,stretch your legs,,1430,0,4,39,65,1,1,1,English
+34,to look for,3,15246,1,4,39,65,1,2,1,English
+36,look out for each other,,895,0,4,39,65,1,2,1,English
+37,best man,3,10717,1,4,39,65,1,2,1,English
+38,to show up,3,7125,1,4,39,65,1,2,1,English
+40,to make sure,3,46557,1,4,39,65,1,2,1,English
+41,to be allowed to,3,581,1,4,39,65,1,2,1,English
+42,let you down,3,8384,1,4,39,65,1,2,1,English
+43,grocery store,3,4060,1,4,39,65,1,2,1,English
+44,a bunch of,3,55410,1,4,39,65,1,2,1,English
+45,to get in touch with,,8118,0,4,39,65,1,1,1,English
+111,Ik heb beloofd,4,555,1,4,39,65,1,2.00,1,Dutch
+112,In deze buurt,10,5645,1,4,39,65,1,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,4,39,65,1,1.00,1,Dutch
+116,Zich vervelen,,1390,0,4,39,65,1,1.00,1,Dutch
+117,Je hoort hier,10,455,1,4,39,65,1,2.00,1,Dutch
+118,Maak in orde,,3388,0,4,39,65,1,1.00,1,Dutch
+119,Ik dacht dat,7,65317,1,4,39,65,1,2.00,1,Dutch
+200,Naar buiten,4,260816,1,4,39,65,1,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,4,39,65,1,1.00,1,Dutch
+202,Volgens mij,,435667,0,4,39,65,1,2.00,1,Dutch
+203,Gleed weg,,180,0,4,39,65,1,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,4,39,65,1,2.00,1,Dutch
+205,ik trakteer,,306,0,4,39,65,1,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,4,39,65,1,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,4,39,65,1,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,4,39,65,1,1.00,1,Dutch
+209,Ik heb geen zin,,5288,0,4,39,65,1,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,4,39,65,1,2.00,1,Dutch
+211,Voor altijd,5,50382,1,4,39,65,1,2.00,1,Dutch
+212,Achter de rug,,57970,0,4,39,65,1,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,4,39,65,1,1.00,1,Dutch
+214,Ik weet het niet,26,26138,1,4,39,65,1,2.00,1,Dutch
+215,Dit is vreselijk,3,156,1,4,39,65,1,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,4,39,65,1,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,4,39,65,1,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,4,39,65,1,1.00,1,Dutch
+219,Zeg het maar,,3720,0,4,39,65,1,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,4,39,65,1,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,4,39,65,1,2.00,1,Dutch
+222,ga je mee,,4536,0,4,39,65,1,2.00,1,Dutch
+223,De slechte plek,15,139,1,4,39,65,1,2.00,1,Dutch
+224,Kijk maar,3,49858,1,4,39,65,1,2.00,1,Dutch
+225,Maak klaar,,5044,0,4,39,65,1,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,4,39,65,1,1.00,1,Dutch
+227,Iemand anders,5,108062,1,4,39,65,1,1.00,1,Dutch
+228,Leuk weetje,4,6535,1,4,39,65,1,2.00,1,Dutch
+229,De goeie plek,21,270,1,4,39,65,1,1.00,1,Dutch
+230,Ben gek op,,6409,0,4,39,65,1,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,4,39,65,1,2.00,1,Dutch
+232,Het spijt me,11,9737,1,4,39,65,1,1.00,1,Dutch
+1,to drop me off,,10661,0,5,55,62,1,2,1,English
+2,a rough patch,,1193,0,5,55,62,1,2,1,English
+3,give me a ride,,8601,0,5,55,62,1,2,1,English
+4,to plug in,,2268,0,5,55,62,1,2,1,English
+5,to keep up,,20554,0,5,55,62,1,2,1,English
+6,to be supposed to,18,158126,1,5,55,62,1,2,1,English
+7,maid of honour,,2430,0,5,55,62,1,2,1,English
+8,I used to,7,68648,1,5,55,62,1,2,1,English
+9,on the same page,,2889,0,5,55,62,1,2,1,English
+10,a vow of silence,4,575,1,5,55,62,1,2,1,English
+11,no big deal,6,13979,1,5,55,62,1,2,1,English
+12,on your own,3,26888,1,5,55,62,1,2,1,English
+13,do for a living,3,4899,1,5,55,62,1,2,1,English
+14,Jalapeño poppers,4,60,1,5,55,62,1,2,1,English
+15,catch a cold,,2344,0,5,55,62,1,2,1,English
+18,why don't you,12,51952,1,5,55,62,1,2,1,English
+19,a marriage councelor,3,176,1,5,55,62,1,2,1,English
+20,proud of you,3,25471,1,5,55,62,1,2,1,English
+21,say no more,3,3487,1,5,55,62,1,2,1,English
+22,show somebody around,,4902,0,5,55,62,1,2,1,English
+23,figure out,15,89129,1,5,55,62,1,2,1,English
+24,break a promise,3,482,1,5,55,62,1,3,2,English
+25,give me a hand,,18448,0,5,55,62,1,2,1,English
+26,go ahead,3,130817,1,5,55,62,1,2,1,English
+27,pretend to be,5,18299,1,5,55,62,1,2,1,English
+29,to lie down,,22256,0,5,55,62,1,2,1,English
+30,I would rather,3,44548,1,5,55,62,1,2,1,English
+31,designated driver,3,611,1,5,55,62,1,2,1,English
+32,find a way to,4,20085,1,5,55,62,1,2,1,English
+33,stretch your legs,,1430,0,5,55,62,1,2,1,English
+34,to look for,3,15246,1,5,55,62,1,2,1,English
+36,look out for each other,,895,0,5,55,62,1,2,1,English
+37,best man,3,10717,1,5,55,62,1,2,1,English
+38,to show up,3,7125,1,5,55,62,1,2,1,English
+40,to make sure,3,46557,1,5,55,62,1,2,1,English
+41,to be allowed to,3,581,1,5,55,62,1,2,1,English
+42,let you down,3,8384,1,5,55,62,1,2,1,English
+43,grocery store,3,4060,1,5,55,62,1,3,2,English
+44,a bunch of,3,55410,1,5,55,62,1,2,1,English
+45,to get in touch with,,8118,0,5,55,62,1,2,1,English
+111,Ik heb beloofd,4,555,1,5,55,62,1,2.00,1,Dutch
+112,In deze buurt,10,5645,1,5,55,62,1,1.00,1,Dutch
+113,Wees voorzichtig,,8520,0,5,55,62,1,1.00,1,Dutch
+116,Zich vervelen,,1390,0,5,55,62,1,1.00,1,Dutch
+117,Je hoort hier,10,455,1,5,55,62,1,2.00,1,Dutch
+118,Maak in orde,,3388,0,5,55,62,1,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,5,55,62,1,2.00,1,Dutch
+200,Naar buiten,4,260816,1,5,55,62,1,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,5,55,62,1,2.00,1,Dutch
+202,Volgens mij,,435667,0,5,55,62,1,1.00,1,Dutch
+203,Gleed weg,,180,0,5,55,62,1,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,5,55,62,1,1.00,1,Dutch
+205,ik trakteer,,306,0,5,55,62,1,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,5,55,62,1,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,5,55,62,1,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,5,55,62,1,2.00,1,Dutch
+209,Ik heb geen zin,,5288,0,5,55,62,1,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,5,55,62,1,2.00,1,Dutch
+211,Voor altijd,5,50382,1,5,55,62,1,2.00,1,Dutch
+212,Achter de rug,,57970,0,5,55,62,1,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,5,55,62,1,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,5,55,62,1,2.00,1,Dutch
+215,Dit is vreselijk,3,156,1,5,55,62,1,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,5,55,62,1,2.00,1,Dutch
+217,Ik ben toe aan,,465,0,5,55,62,1,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,5,55,62,1,1.00,1,Dutch
+219,Zeg het maar,,3720,0,5,55,62,1,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,5,55,62,1,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,5,55,62,1,2.00,1,Dutch
+222,ga je mee,,4536,0,5,55,62,1,1.00,1,Dutch
+223,De slechte plek,15,139,1,5,55,62,1,2.00,1,Dutch
+224,Kijk maar,3,49858,1,5,55,62,1,2.00,1,Dutch
+225,Maak klaar,,5044,0,5,55,62,1,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,5,55,62,1,2.00,1,Dutch
+227,Iemand anders,5,108062,1,5,55,62,1,1.00,1,Dutch
+228,Leuk weetje,4,6535,1,5,55,62,1,1.00,1,Dutch
+229,De goeie plek,21,270,1,5,55,62,1,2.00,1,Dutch
+230,Ben gek op,,6409,0,5,55,62,1,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,5,55,62,1,2.00,1,Dutch
+232,Het spijt me,11,9737,1,5,55,62,1,2.00,1,Dutch
+1,to drop me off,,10661,0,6,61,68,1,2,1,English
+2,a rough patch,,1193,0,6,61,68,1,1,1,English
+3,give me a ride,,8601,0,6,61,68,1,3,2,English
+4,to plug in,,2268,0,6,61,68,1,2,1,English
+5,to keep up,,20554,0,6,61,68,1,2,1,English
+6,to be supposed to,18,158126,1,6,61,68,1,1,1,English
+7,maid of honour,,2430,0,6,61,68,1,1,1,English
+8,I used to,7,68648,1,6,61,68,1,2,1,English
+9,on the same page,,2889,0,6,61,68,1,2,1,English
+10,a vow of silence,4,575,1,6,61,68,1,1,1,English
+11,no big deal,6,13979,1,6,61,68,1,1,1,English
+12,on your own,3,26888,1,6,61,68,1,1,1,English
+13,do for a living,3,4899,1,6,61,68,1,1,1,English
+14,Jalapeño poppers,4,60,1,6,61,68,1,1,1,English
+15,catch a cold,,2344,0,6,61,68,1,1,1,English
+18,why don't you,12,51952,1,6,61,68,1,2,1,English
+19,a marriage councelor,3,176,1,6,61,68,1,2,1,English
+20,proud of you,3,25471,1,6,61,68,1,1,1,English
+21,say no more,3,3487,1,6,61,68,1,1,1,English
+22,show somebody around,,4902,0,6,61,68,1,2,1,English
+23,figure out,15,89129,1,6,61,68,1,1,1,English
+24,break a promise,3,482,1,6,61,68,1,1,1,English
+25,give me a hand,,18448,0,6,61,68,1,2,1,English
+26,go ahead,3,130817,1,6,61,68,1,1,1,English
+27,pretend to be,5,18299,1,6,61,68,1,1,1,English
+29,to lie down,,22256,0,6,61,68,1,2,1,English
+30,I would rather,3,44548,1,6,61,68,1,2,1,English
+31,designated driver,3,611,1,6,61,68,1,1,1,English
+32,find a way to,4,20085,1,6,61,68,1,2,1,English
+33,stretch your legs,,1430,0,6,61,68,1,2,1,English
+34,to look for,3,15246,1,6,61,68,1,2,1,English
+36,look out for each other,,895,0,6,61,68,1,1,1,English
+37,best man,3,10717,1,6,61,68,1,2,1,English
+38,to show up,3,7125,1,6,61,68,1,2,1,English
+40,to make sure,3,46557,1,6,61,68,1,2,1,English
+41,to be allowed to,3,581,1,6,61,68,1,2,1,English
+42,let you down,3,8384,1,6,61,68,1,2,1,English
+43,grocery store,3,4060,1,6,61,68,1,3,2,English
+44,a bunch of,3,55410,1,6,61,68,1,2,1,English
+45,to get in touch with,,8118,0,6,61,68,1,2,1,English
+111,Ik heb beloofd,4,555,1,6,61,68,1,1.00,1,Dutch
+112,In deze buurt,10,5645,1,6,61,68,1,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,6,61,68,1,2.00,1,Dutch
+116,Zich vervelen,,1390,0,6,61,68,1,2.00,1,Dutch
+117,Je hoort hier,10,455,1,6,61,68,1,1.00,1,Dutch
+118,Maak in orde,,3388,0,6,61,68,1,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,6,61,68,1,1.00,1,Dutch
+200,Naar buiten,4,260816,1,6,61,68,1,3.00,2,Dutch
+201,Ik ben vermoord,5,18,1,6,61,68,1,2.00,1,Dutch
+202,Volgens mij,,435667,0,6,61,68,1,1.00,1,Dutch
+203,Gleed weg,,180,0,6,61,68,1,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,6,61,68,1,2.00,1,Dutch
+205,ik trakteer,,306,0,6,61,68,1,1.00,1,Dutch
+206,Geen zorgen,7,62783,1,6,61,68,1,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,6,61,68,1,1.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,6,61,68,1,1.00,1,Dutch
+209,Ik heb geen zin,,5288,0,6,61,68,1,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,6,61,68,1,1.00,1,Dutch
+211,Voor altijd,5,50382,1,6,61,68,1,2.00,1,Dutch
+212,Achter de rug,,57970,0,6,61,68,1,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,6,61,68,1,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,6,61,68,1,1.00,1,Dutch
+215,Dit is vreselijk,3,156,1,6,61,68,1,2.00,1,Dutch
+216,Zinkput des verderfs,6,,1,6,61,68,1,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,6,61,68,1,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,6,61,68,1,1.00,1,Dutch
+219,Zeg het maar,,3720,0,6,61,68,1,1.00,1,Dutch
+220,Mijn hele leven,3,11092,1,6,61,68,1,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,6,61,68,1,2.00,1,Dutch
+222,ga je mee,,4536,0,6,61,68,1,1.00,1,Dutch
+223,De slechte plek,15,139,1,6,61,68,1,2.00,1,Dutch
+224,Kijk maar,3,49858,1,6,61,68,1,3.00,2,Dutch
+225,Maak klaar,,5044,0,6,61,68,1,1.00,1,Dutch
+226,Ik ben dol op,6,8180,1,6,61,68,1,1.00,1,Dutch
+227,Iemand anders,5,108062,1,6,61,68,1,2.00,1,Dutch
+228,Leuk weetje,4,6535,1,6,61,68,1,1.00,1,Dutch
+229,De goeie plek,21,270,1,6,61,68,1,1.00,1,Dutch
+230,Ben gek op,,6409,0,6,61,68,1,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,6,61,68,1,2.00,1,Dutch
+232,Het spijt me,11,9737,1,6,61,68,1,1.00,1,Dutch
+1,to drop me off,,10661,0,7,66,80,1,3,2,English
+2,a rough patch,,1193,0,7,66,80,1,2,1,English
+3,give me a ride,,8601,0,7,66,80,1,2,1,English
+4,to plug in,,2268,0,7,66,80,1,2,1,English
+5,to keep up,,20554,0,7,66,80,1,2,1,English
+6,to be supposed to,18,158126,1,7,66,80,1,2,1,English
+7,maid of honour,,2430,0,7,66,80,1,2,1,English
+8,I used to,7,68648,1,7,66,80,1,2,1,English
+9,on the same page,,2889,0,7,66,80,1,2,1,English
+10,a vow of silence,4,575,1,7,66,80,1,2,1,English
+11,no big deal,6,13979,1,7,66,80,1,5,2,English
+12,on your own,3,26888,1,7,66,80,1,2,1,English
+13,do for a living,3,4899,1,7,66,80,1,2,1,English
+14,Jalapeño poppers,4,60,1,7,66,80,1,1,1,English
+15,catch a cold,,2344,0,7,66,80,1,2,1,English
+18,why don't you,12,51952,1,7,66,80,1,5,2,English
+19,a marriage councelor,3,176,1,7,66,80,1,2,1,English
+20,proud of you,3,25471,1,7,66,80,1,5,2,English
+21,say no more,3,3487,1,7,66,80,1,5,2,English
+22,show somebody around,,4902,0,7,66,80,1,2,1,English
+23,figure out,15,89129,1,7,66,80,1,4,2,English
+24,break a promise,3,482,1,7,66,80,1,5,2,English
+25,give me a hand,,18448,0,7,66,80,1,2,1,English
+26,go ahead,3,130817,1,7,66,80,1,5,2,English
+27,pretend to be,5,18299,1,7,66,80,1,2,1,English
+29,to lie down,,22256,0,7,66,80,1,2,1,English
+30,I would rather,3,44548,1,7,66,80,1,5,2,English
+31,designated driver,3,611,1,7,66,80,1,2,1,English
+32,find a way to,4,20085,1,7,66,80,1,5,2,English
+33,stretch your legs,,1430,0,7,66,80,1,5,2,English
+34,to look for,3,15246,1,7,66,80,1,2,1,English
+36,look out for each other,,895,0,7,66,80,1,2,1,English
+37,best man,3,10717,1,7,66,80,1,2,1,English
+38,to show up,3,7125,1,7,66,80,1,2,1,English
+40,to make sure,3,46557,1,7,66,80,1,2,1,English
+41,to be allowed to,3,581,1,7,66,80,1,5,2,English
+42,let you down,3,8384,1,7,66,80,1,2,1,English
+43,grocery store,3,4060,1,7,66,80,1,3,2,English
+44,a bunch of,3,55410,1,7,66,80,1,2,1,English
+45,to get in touch with,,8118,0,7,66,80,1,5,2,English
+111,Ik heb beloofd,4,555,1,7,66,80,1,2.00,1,Dutch
+112,In deze buurt,10,5645,1,7,66,80,1,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,7,66,80,1,1.00,1,Dutch
+116,Zich vervelen,,1390,0,7,66,80,1,1.00,1,Dutch
+117,Je hoort hier,10,455,1,7,66,80,1,2.00,1,Dutch
+118,Maak in orde,,3388,0,7,66,80,1,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,7,66,80,1,2.00,1,Dutch
+200,Naar buiten,4,260816,1,7,66,80,1,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,7,66,80,1,2.00,1,Dutch
+202,Volgens mij,,435667,0,7,66,80,1,2.00,1,Dutch
+203,Gleed weg,,180,0,7,66,80,1,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,7,66,80,1,2.00,1,Dutch
+205,ik trakteer,,306,0,7,66,80,1,1.00,1,Dutch
+206,Geen zorgen,7,62783,1,7,66,80,1,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,7,66,80,1,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,7,66,80,1,2.00,1,Dutch
+209,Ik heb geen zin,,5288,0,7,66,80,1,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,7,66,80,1,2.00,1,Dutch
+211,Voor altijd,5,50382,1,7,66,80,1,2.00,1,Dutch
+212,Achter de rug,,57970,0,7,66,80,1,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,7,66,80,1,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,7,66,80,1,2.00,1,Dutch
+215,Dit is vreselijk,3,156,1,7,66,80,1,2.00,1,Dutch
+216,Zinkput des verderfs,6,,1,7,66,80,1,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,7,66,80,1,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,7,66,80,1,1.00,1,Dutch
+219,Zeg het maar,,3720,0,7,66,80,1,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,7,66,80,1,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,7,66,80,1,2.00,1,Dutch
+222,ga je mee,,4536,0,7,66,80,1,2.00,1,Dutch
+223,De slechte plek,15,139,1,7,66,80,1,2.00,1,Dutch
+224,Kijk maar,3,49858,1,7,66,80,1,3.00,2,Dutch
+225,Maak klaar,,5044,0,7,66,80,1,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,7,66,80,1,2.00,1,Dutch
+227,Iemand anders,5,108062,1,7,66,80,1,3.00,2,Dutch
+228,Leuk weetje,4,6535,1,7,66,80,1,2.00,1,Dutch
+229,De goeie plek,21,270,1,7,66,80,1,2.00,1,Dutch
+230,Ben gek op,,6409,0,7,66,80,1,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,7,66,80,1,2.00,1,Dutch
+232,Het spijt me,11,9737,1,7,66,80,1,1.00,1,Dutch
+1,to drop me off,,10661,0,8,67,75,1,2,1,English
+2,a rough patch,,1193,0,8,67,75,1,2,1,English
+3,give me a ride,,8601,0,8,67,75,1,1,1,English
+4,to plug in,,2268,0,8,67,75,1,3,2,English
+5,to keep up,,20554,0,8,67,75,1,4,2,English
+6,to be supposed to,18,158126,1,8,67,75,1,2,1,English
+7,maid of honour,,2430,0,8,67,75,1,2,1,English
+8,I used to,7,68648,1,8,67,75,1,2,1,English
+9,on the same page,,2889,0,8,67,75,1,2,1,English
+10,a vow of silence,4,575,1,8,67,75,1,2,1,English
+11,no big deal,6,13979,1,8,67,75,1,2,1,English
+12,on your own,3,26888,1,8,67,75,1,2,1,English
+13,do for a living,3,4899,1,8,67,75,1,2,1,English
+14,Jalapeño poppers,4,60,1,8,67,75,1,1,1,English
+15,catch a cold,,2344,0,8,67,75,1,4,2,English
+18,why don't you,12,51952,1,8,67,75,1,2,1,English
+19,a marriage councelor,3,176,1,8,67,75,1,2,1,English
+20,proud of you,3,25471,1,8,67,75,1,2,1,English
+21,say no more,3,3487,1,8,67,75,1,4,2,English
+22,show somebody around,,4902,0,8,67,75,1,2,1,English
+23,figure out,15,89129,1,8,67,75,1,4,2,English
+24,break a promise,3,482,1,8,67,75,1,4,2,English
+25,give me a hand,,18448,0,8,67,75,1,4,2,English
+26,go ahead,3,130817,1,8,67,75,1,2,1,English
+27,pretend to be,5,18299,1,8,67,75,1,2,1,English
+29,to lie down,,22256,0,8,67,75,1,2,1,English
+30,I would rather,3,44548,1,8,67,75,1,2,1,English
+31,designated driver,3,611,1,8,67,75,1,2,1,English
+32,find a way to,4,20085,1,8,67,75,1,3,2,English
+33,stretch your legs,,1430,0,8,67,75,1,2,1,English
+34,to look for,3,15246,1,8,67,75,1,2,1,English
+36,look out for each other,,895,0,8,67,75,1,2,1,English
+37,best man,3,10717,1,8,67,75,1,2,1,English
+38,to show up,3,7125,1,8,67,75,1,4,2,English
+40,to make sure,3,46557,1,8,67,75,1,2,1,English
+41,to be allowed to,3,581,1,8,67,75,1,2,1,English
+42,let you down,3,8384,1,8,67,75,1,4,2,English
+43,grocery store,3,4060,1,8,67,75,1,2,1,English
+44,a bunch of,3,55410,1,8,67,75,1,2,1,English
+45,to get in touch with,,8118,0,8,67,75,1,2,1,English
+111,Ik heb beloofd,4,555,1,8,67,75,1,2.00,1,Dutch
+112,In deze buurt,10,5645,1,8,67,75,1,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,8,67,75,1,1.00,1,Dutch
+116,Zich vervelen,,1390,0,8,67,75,1,2.00,1,Dutch
+117,Je hoort hier,10,455,1,8,67,75,1,2.00,1,Dutch
+118,Maak in orde,,3388,0,8,67,75,1,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,8,67,75,1,2.00,1,Dutch
+200,Naar buiten,4,260816,1,8,67,75,1,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,8,67,75,1,2.00,1,Dutch
+202,Volgens mij,,435667,0,8,67,75,1,2.00,1,Dutch
+203,Gleed weg,,180,0,8,67,75,1,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,8,67,75,1,1.00,1,Dutch
+205,ik trakteer,,306,0,8,67,75,1,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,8,67,75,1,1.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,8,67,75,1,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,8,67,75,1,1.00,1,Dutch
+209,Ik heb geen zin,,5288,0,8,67,75,1,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,8,67,75,1,1.00,1,Dutch
+211,Voor altijd,5,50382,1,8,67,75,1,2.00,1,Dutch
+212,Achter de rug,,57970,0,8,67,75,1,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,8,67,75,1,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,8,67,75,1,2.00,1,Dutch
+215,Dit is vreselijk,3,156,1,8,67,75,1,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,8,67,75,1,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,8,67,75,1,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,8,67,75,1,2.00,1,Dutch
+219,Zeg het maar,,3720,0,8,67,75,1,1.00,1,Dutch
+220,Mijn hele leven,3,11092,1,8,67,75,1,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,8,67,75,1,2.00,1,Dutch
+222,ga je mee,,4536,0,8,67,75,1,2.00,1,Dutch
+223,De slechte plek,15,139,1,8,67,75,1,2.00,1,Dutch
+224,Kijk maar,3,49858,1,8,67,75,1,1.00,1,Dutch
+225,Maak klaar,,5044,0,8,67,75,1,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,8,67,75,1,1.00,1,Dutch
+227,Iemand anders,5,108062,1,8,67,75,1,2.00,1,Dutch
+228,Leuk weetje,4,6535,1,8,67,75,1,2.00,1,Dutch
+229,De goeie plek,21,270,1,8,67,75,1,1.00,1,Dutch
+230,Ben gek op,,6409,0,8,67,75,1,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,8,67,75,1,2.00,1,Dutch
+232,Het spijt me,11,9737,1,8,67,75,1,2.00,1,Dutch
+1,to drop me off,,10661,0,9,49,58,1,1,1,English
+2,a rough patch,,1193,0,9,49,58,1,1,1,English
+3,give me a ride,,8601,0,9,49,58,1,2,1,English
+4,to plug in,,2268,0,9,49,58,1,2,1,English
+5,to keep up,,20554,0,9,49,58,1,1,1,English
+6,to be supposed to,18,158126,1,9,49,58,1,1,1,English
+7,maid of honour,,2430,0,9,49,58,1,1,1,English
+8,I used to,7,68648,1,9,49,58,1,2,1,English
+9,on the same page,,2889,0,9,49,58,1,2,1,English
+10,a vow of silence,4,575,1,9,49,58,1,1,1,English
+11,no big deal,6,13979,1,9,49,58,1,1,1,English
+12,on your own,3,26888,1,9,49,58,1,2,1,English
+13,do for a living,3,4899,1,9,49,58,1,2,1,English
+14,Jalapeño poppers,4,60,1,9,49,58,1,1,1,English
+15,catch a cold,,2344,0,9,49,58,1,1,1,English
+18,why don't you,12,51952,1,9,49,58,1,2,1,English
+19,a marriage councelor,3,176,1,9,49,58,1,1,1,English
+20,proud of you,3,25471,1,9,49,58,1,1,1,English
+21,say no more,3,3487,1,9,49,58,1,2,1,English
+22,show somebody around,,4902,0,9,49,58,1,2,1,English
+23,figure out,15,89129,1,9,49,58,1,1,1,English
+24,break a promise,3,482,1,9,49,58,1,2,1,English
+25,give me a hand,,18448,0,9,49,58,1,2,1,English
+26,go ahead,3,130817,1,9,49,58,1,1,1,English
+27,pretend to be,5,18299,1,9,49,58,1,2,1,English
+29,to lie down,,22256,0,9,49,58,1,2,1,English
+30,I would rather,3,44548,1,9,49,58,1,1,1,English
+31,designated driver,3,611,1,9,49,58,1,1,1,English
+32,find a way to,4,20085,1,9,49,58,1,2,1,English
+33,stretch your legs,,1430,0,9,49,58,1,2,1,English
+34,to look for,3,15246,1,9,49,58,1,2,1,English
+36,look out for each other,,895,0,9,49,58,1,1,1,English
+37,best man,3,10717,1,9,49,58,1,2,1,English
+38,to show up,3,7125,1,9,49,58,1,2,1,English
+40,to make sure,3,46557,1,9,49,58,1,2,1,English
+41,to be allowed to,3,581,1,9,49,58,1,2,1,English
+42,let you down,3,8384,1,9,49,58,1,2,1,English
+43,grocery store,3,4060,1,9,49,58,1,1,1,English
+44,a bunch of,3,55410,1,9,49,58,1,2,1,English
+45,to get in touch with,,8118,0,9,49,58,1,2,1,English
+111,Ik heb beloofd,4,555,1,9,49,58,1,1.00,1,Dutch
+112,In deze buurt,10,5645,1,9,49,58,1,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,9,49,58,1,1.00,1,Dutch
+116,Zich vervelen,,1390,0,9,49,58,1,1.00,1,Dutch
+117,Je hoort hier,10,455,1,9,49,58,1,1.00,1,Dutch
+118,Maak in orde,,3388,0,9,49,58,1,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,9,49,58,1,2.00,1,Dutch
+200,Naar buiten,4,260816,1,9,49,58,1,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,9,49,58,1,1.00,1,Dutch
+202,Volgens mij,,435667,0,9,49,58,1,2.00,1,Dutch
+203,Gleed weg,,180,0,9,49,58,1,1.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,9,49,58,1,3.00,2,Dutch
+205,ik trakteer,,306,0,9,49,58,1,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,9,49,58,1,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,9,49,58,1,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,9,49,58,1,2.00,1,Dutch
+209,Ik heb geen zin,,5288,0,9,49,58,1,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,9,49,58,1,1.00,1,Dutch
+211,Voor altijd,5,50382,1,9,49,58,1,2.00,1,Dutch
+212,Achter de rug,,57970,0,9,49,58,1,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,9,49,58,1,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,9,49,58,1,1.00,1,Dutch
+215,Dit is vreselijk,3,156,1,9,49,58,1,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,9,49,58,1,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,9,49,58,1,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,9,49,58,1,1.00,1,Dutch
+219,Zeg het maar,,3720,0,9,49,58,1,1.00,1,Dutch
+220,Mijn hele leven,3,11092,1,9,49,58,1,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,9,49,58,1,1.00,1,Dutch
+222,ga je mee,,4536,0,9,49,58,1,1.00,1,Dutch
+223,De slechte plek,15,139,1,9,49,58,1,1.00,1,Dutch
+224,Kijk maar,3,49858,1,9,49,58,1,3.00,2,Dutch
+225,Maak klaar,,5044,0,9,49,58,1,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,9,49,58,1,1.00,1,Dutch
+227,Iemand anders,5,108062,1,9,49,58,1,1.00,1,Dutch
+228,Leuk weetje,4,6535,1,9,49,58,1,1.00,1,Dutch
+229,De goeie plek,21,270,1,9,49,58,1,1.00,1,Dutch
+230,Ben gek op,,6409,0,9,49,58,1,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,9,49,58,1,2.00,1,Dutch
+232,Het spijt me,11,9737,1,9,49,58,1,1.00,1,Dutch
+1,to drop me off,,10661,0,11,38,70,1,2,1,English
+2,a rough patch,,1193,0,11,38,70,1,2,1,English
+3,give me a ride,,8601,0,11,38,70,1,4,2,English
+4,to plug in,,2268,0,11,38,70,1,4,2,English
+5,to keep up,,20554,0,11,38,70,1,3,2,English
+6,to be supposed to,18,158126,1,11,38,70,1,2,1,English
+7,maid of honour,,2430,0,11,38,70,1,1,1,English
+8,I used to,7,68648,1,11,38,70,1,4,2,English
+9,on the same page,,2889,0,11,38,70,1,2,1,English
+10,a vow of silence,4,575,1,11,38,70,1,1,1,English
+11,no big deal,6,13979,1,11,38,70,1,2,1,English
+12,on your own,3,26888,1,11,38,70,1,2,1,English
+13,do for a living,3,4899,1,11,38,70,1,4,2,English
+14,Jalapeño poppers,4,60,1,11,38,70,1,1,1,English
+15,catch a cold,,2344,0,11,38,70,1,4,2,English
+18,why don't you,12,51952,1,11,38,70,1,4,2,English
+19,a marriage councelor,3,176,1,11,38,70,1,1,1,English
+20,proud of you,3,25471,1,11,38,70,1,2,1,English
+21,say no more,3,3487,1,11,38,70,1,4,2,English
+22,show somebody around,,4902,0,11,38,70,1,2,1,English
+23,figure out,15,89129,1,11,38,70,1,2,1,English
+24,break a promise,3,482,1,11,38,70,1,2,1,English
+25,give me a hand,,18448,0,11,38,70,1,2,1,English
+26,go ahead,3,130817,1,11,38,70,1,2,1,English
+27,pretend to be,5,18299,1,11,38,70,1,2,1,English
+29,to lie down,,22256,0,11,38,70,1,3,2,English
+30,I would rather,3,44548,1,11,38,70,1,2,1,English
+31,designated driver,3,611,1,11,38,70,1,2,1,English
+32,find a way to,4,20085,1,11,38,70,1,2,1,English
+33,stretch your legs,,1430,0,11,38,70,1,3,2,English
+34,to look for,3,15246,1,11,38,70,1,2,1,English
+36,look out for each other,,895,0,11,38,70,1,2,1,English
+37,best man,3,10717,1,11,38,70,1,2,1,English
+38,to show up,3,7125,1,11,38,70,1,4,2,English
+40,to make sure,3,46557,1,11,38,70,1,4,2,English
+41,to be allowed to,3,581,1,11,38,70,1,2,1,English
+42,let you down,3,8384,1,11,38,70,1,4,2,English
+43,grocery store,3,4060,1,11,38,70,1,1,1,English
+44,a bunch of,3,55410,1,11,38,70,1,2,1,English
+45,to get in touch with,,8118,0,11,38,70,1,2,1,English
+111,Ik heb beloofd,4,555,1,11,38,70,1,2.00,1,Dutch
+112,In deze buurt,10,5645,1,11,38,70,1,1.00,1,Dutch
+113,Wees voorzichtig,,8520,0,11,38,70,1,1.00,1,Dutch
+116,Zich vervelen,,1390,0,11,38,70,1,2.00,1,Dutch
+117,Je hoort hier,10,455,1,11,38,70,1,2.00,1,Dutch
+118,Maak in orde,,3388,0,11,38,70,1,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,11,38,70,1,2.00,1,Dutch
+200,Naar buiten,4,260816,1,11,38,70,1,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,11,38,70,1,2.00,1,Dutch
+202,Volgens mij,,435667,0,11,38,70,1,1.00,1,Dutch
+203,Gleed weg,,180,0,11,38,70,1,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,11,38,70,1,1.00,1,Dutch
+205,ik trakteer,,306,0,11,38,70,1,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,11,38,70,1,1.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,11,38,70,1,1.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,11,38,70,1,3.00,2,Dutch
+209,Ik heb geen zin,,5288,0,11,38,70,1,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,11,38,70,1,1.00,1,Dutch
+211,Voor altijd,5,50382,1,11,38,70,1,1.00,1,Dutch
+212,Achter de rug,,57970,0,11,38,70,1,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,11,38,70,1,3.00,2,Dutch
+214,Ik weet het niet,26,26138,1,11,38,70,1,2.00,1,Dutch
+215,Dit is vreselijk,3,156,1,11,38,70,1,2.00,1,Dutch
+216,Zinkput des verderfs,6,,1,11,38,70,1,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,11,38,70,1,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,11,38,70,1,2.00,1,Dutch
+219,Zeg het maar,,3720,0,11,38,70,1,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,11,38,70,1,3.00,2,Dutch
+221,Wat gezellig!,,2476,0,11,38,70,1,2.00,1,Dutch
+222,ga je mee,,4536,0,11,38,70,1,1.00,1,Dutch
+223,De slechte plek,15,139,1,11,38,70,1,1.00,1,Dutch
+224,Kijk maar,3,49858,1,11,38,70,1,3.00,2,Dutch
+225,Maak klaar,,5044,0,11,38,70,1,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,11,38,70,1,2.00,1,Dutch
+227,Iemand anders,5,108062,1,11,38,70,1,2.00,1,Dutch
+228,Leuk weetje,4,6535,1,11,38,70,1,3.00,2,Dutch
+229,De goeie plek,21,270,1,11,38,70,1,2.00,1,Dutch
+230,Ben gek op,,6409,0,11,38,70,1,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,11,38,70,1,1.00,1,Dutch
+232,Het spijt me,11,9737,1,11,38,70,1,1.00,1,Dutch
+1,to drop me off,,10661,0,15,70,70,1,3,2,English
+2,a rough patch,,1193,0,15,70,70,1,1,1,English
+3,give me a ride,,8601,0,15,70,70,1,2,1,English
+4,to plug in,,2268,0,15,70,70,1,1,1,English
+5,to keep up,,20554,0,15,70,70,1,2,1,English
+6,to be supposed to,18,158126,1,15,70,70,1,2,1,English
+7,maid of honour,,2430,0,15,70,70,1,1,1,English
+8,I used to,7,68648,1,15,70,70,1,5,2,English
+9,on the same page,,2889,0,15,70,70,1,2,1,English
+10,a vow of silence,4,575,1,15,70,70,1,1,1,English
+11,no big deal,6,13979,1,15,70,70,1,2,1,English
+12,on your own,3,26888,1,15,70,70,1,2,1,English
+13,do for a living,3,4899,1,15,70,70,1,2,1,English
+14,Jalapeño poppers,4,60,1,15,70,70,1,1,1,English
+15,catch a cold,,2344,0,15,70,70,1,2,1,English
+18,why don't you,12,51952,1,15,70,70,1,2,1,English
+19,a marriage councelor,3,176,1,15,70,70,1,1,1,English
+20,proud of you,3,25471,1,15,70,70,1,4,2,English
+21,say no more,3,3487,1,15,70,70,1,4,2,English
+22,show somebody around,,4902,0,15,70,70,1,2,1,English
+23,figure out,15,89129,1,15,70,70,1,1,1,English
+24,break a promise,3,482,1,15,70,70,1,3,2,English
+25,give me a hand,,18448,0,15,70,70,1,2,1,English
+26,go ahead,3,130817,1,15,70,70,1,2,1,English
+27,pretend to be,5,18299,1,15,70,70,1,2,1,English
+29,to lie down,,22256,0,15,70,70,1,2,1,English
+30,I would rather,3,44548,1,15,70,70,1,3,2,English
+31,designated driver,3,611,1,15,70,70,1,1,1,English
+32,find a way to,4,20085,1,15,70,70,1,3,2,English
+33,stretch your legs,,1430,0,15,70,70,1,3,2,English
+34,to look for,3,15246,1,15,70,70,1,2,1,English
+36,look out for each other,,895,0,15,70,70,1,2,1,English
+37,best man,3,10717,1,15,70,70,1,2,1,English
+38,to show up,3,7125,1,15,70,70,1,2,1,English
+40,to make sure,3,46557,1,15,70,70,1,3,2,English
+41,to be allowed to,3,581,1,15,70,70,1,4,2,English
+42,let you down,3,8384,1,15,70,70,1,2,1,English
+43,grocery store,3,4060,1,15,70,70,1,1,1,English
+44,a bunch of,3,55410,1,15,70,70,1,1,1,English
+45,to get in touch with,,8118,0,15,70,70,1,2,1,English
+111,Ik heb beloofd,4,555,1,15,70,70,1,2.00,1,Dutch
+112,In deze buurt,10,5645,1,15,70,70,1,1.00,1,Dutch
+113,Wees voorzichtig,,8520,0,15,70,70,1,1.00,1,Dutch
+116,Zich vervelen,,1390,0,15,70,70,1,1.00,1,Dutch
+117,Je hoort hier,10,455,1,15,70,70,1,2.00,1,Dutch
+118,Maak in orde,,3388,0,15,70,70,1,1.00,1,Dutch
+119,Ik dacht dat,7,65317,1,15,70,70,1,2.00,1,Dutch
+200,Naar buiten,4,260816,1,15,70,70,1,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,15,70,70,1,1.00,1,Dutch
+202,Volgens mij,,435667,0,15,70,70,1,2.00,1,Dutch
+203,Gleed weg,,180,0,15,70,70,1,1.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,15,70,70,1,1.00,1,Dutch
+205,ik trakteer,,306,0,15,70,70,1,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,15,70,70,1,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,15,70,70,1,1.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,15,70,70,1,1.00,1,Dutch
+209,Ik heb geen zin,,5288,0,15,70,70,1,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,15,70,70,1,1.00,1,Dutch
+211,Voor altijd,5,50382,1,15,70,70,1,2.00,1,Dutch
+212,Achter de rug,,57970,0,15,70,70,1,1.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,15,70,70,1,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,15,70,70,1,1.00,1,Dutch
+215,Dit is vreselijk,3,156,1,15,70,70,1,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,15,70,70,1,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,15,70,70,1,1.00,1,Dutch
+218,Niet te geloven,3,10514,1,15,70,70,1,1.00,1,Dutch
+219,Zeg het maar,,3720,0,15,70,70,1,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,15,70,70,1,1.00,1,Dutch
+221,Wat gezellig!,,2476,0,15,70,70,1,2.00,1,Dutch
+222,ga je mee,,4536,0,15,70,70,1,1.00,1,Dutch
+223,De slechte plek,15,139,1,15,70,70,1,2.00,1,Dutch
+224,Kijk maar,3,49858,1,15,70,70,1,3.00,2,Dutch
+225,Maak klaar,,5044,0,15,70,70,1,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,15,70,70,1,1.00,1,Dutch
+227,Iemand anders,5,108062,1,15,70,70,1,3.00,2,Dutch
+228,Leuk weetje,4,6535,1,15,70,70,1,2.00,1,Dutch
+229,De goeie plek,21,270,1,15,70,70,1,1.00,1,Dutch
+230,Ben gek op,,6409,0,15,70,70,1,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,15,70,70,1,1.00,1,Dutch
+232,Het spijt me,11,9737,1,15,70,70,1,1.00,1,Dutch
+1,to drop me off,,10661,0,17,57,70,1,2,1,English
+2,a rough patch,,1193,0,17,57,70,1,1,1,English
+3,give me a ride,,8601,0,17,57,70,1,2,1,English
+4,to plug in,,2268,0,17,57,70,1,1,1,English
+5,to keep up,,20554,0,17,57,70,1,2,1,English
+6,to be supposed to,18,158126,1,17,57,70,1,1,1,English
+7,maid of honour,,2430,0,17,57,70,1,1,1,English
+8,I used to,7,68648,1,17,57,70,1,2,1,English
+9,on the same page,,2889,0,17,57,70,1,1,1,English
+10,a vow of silence,4,575,1,17,57,70,1,1,1,English
+11,no big deal,6,13979,1,17,57,70,1,2,1,English
+12,on your own,3,26888,1,17,57,70,1,2,1,English
+13,do for a living,3,4899,1,17,57,70,1,2,1,English
+14,Jalapeño poppers,4,60,1,17,57,70,1,1,1,English
+15,catch a cold,,2344,0,17,57,70,1,2,1,English
+18,why don't you,12,51952,1,17,57,70,1,2,1,English
+19,a marriage councelor,3,176,1,17,57,70,1,1,1,English
+20,proud of you,3,25471,1,17,57,70,1,2,1,English
+21,say no more,3,3487,1,17,57,70,1,2,1,English
+22,show somebody around,,4902,0,17,57,70,1,2,1,English
+23,figure out,15,89129,1,17,57,70,1,2,1,English
+24,break a promise,3,482,1,17,57,70,1,2,1,English
+25,give me a hand,,18448,0,17,57,70,1,2,1,English
+26,go ahead,3,130817,1,17,57,70,1,2,1,English
+27,pretend to be,5,18299,1,17,57,70,1,1,1,English
+29,to lie down,,22256,0,17,57,70,1,1,1,English
+30,I would rather,3,44548,1,17,57,70,1,2,1,English
+31,designated driver,3,611,1,17,57,70,1,1,1,English
+32,find a way to,4,20085,1,17,57,70,1,2,1,English
+33,stretch your legs,,1430,0,17,57,70,1,2,1,English
+34,to look for,3,15246,1,17,57,70,1,2,1,English
+36,look out for each other,,895,0,17,57,70,1,2,1,English
+37,best man,3,10717,1,17,57,70,1,2,1,English
+38,to show up,3,7125,1,17,57,70,1,2,1,English
+40,to make sure,3,46557,1,17,57,70,1,2,1,English
+41,to be allowed to,3,581,1,17,57,70,1,2,1,English
+42,let you down,3,8384,1,17,57,70,1,2,1,English
+43,grocery store,3,4060,1,17,57,70,1,2,1,English
+44,a bunch of,3,55410,1,17,57,70,1,1,1,English
+45,to get in touch with,,8118,0,17,57,70,1,2,1,English
+111,Ik heb beloofd,4,555,1,17,57,70,1,1.00,1,Dutch
+112,In deze buurt,10,5645,1,17,57,70,1,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,17,57,70,1,1.00,1,Dutch
+116,Zich vervelen,,1390,0,17,57,70,1,1.00,1,Dutch
+117,Je hoort hier,10,455,1,17,57,70,1,1.00,1,Dutch
+118,Maak in orde,,3388,0,17,57,70,1,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,17,57,70,1,1.00,1,Dutch
+200,Naar buiten,4,260816,1,17,57,70,1,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,17,57,70,1,1.00,1,Dutch
+202,Volgens mij,,435667,0,17,57,70,1,1.00,1,Dutch
+203,Gleed weg,,180,0,17,57,70,1,1.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,17,57,70,1,3.00,2,Dutch
+205,ik trakteer,,306,0,17,57,70,1,1.00,1,Dutch
+206,Geen zorgen,7,62783,1,17,57,70,1,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,17,57,70,1,1.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,17,57,70,1,1.00,1,Dutch
+209,Ik heb geen zin,,5288,0,17,57,70,1,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,17,57,70,1,1.00,1,Dutch
+211,Voor altijd,5,50382,1,17,57,70,1,2.00,1,Dutch
+212,Achter de rug,,57970,0,17,57,70,1,1.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,17,57,70,1,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,17,57,70,1,3.00,2,Dutch
+215,Dit is vreselijk,3,156,1,17,57,70,1,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,17,57,70,1,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,17,57,70,1,1.00,1,Dutch
+218,Niet te geloven,3,10514,1,17,57,70,1,1.00,1,Dutch
+219,Zeg het maar,,3720,0,17,57,70,1,1.00,1,Dutch
+220,Mijn hele leven,3,11092,1,17,57,70,1,1.00,1,Dutch
+221,Wat gezellig!,,2476,0,17,57,70,1,3.00,2,Dutch
+222,ga je mee,,4536,0,17,57,70,1,1.00,1,Dutch
+223,De slechte plek,15,139,1,17,57,70,1,1.00,1,Dutch
+224,Kijk maar,3,49858,1,17,57,70,1,1.00,1,Dutch
+225,Maak klaar,,5044,0,17,57,70,1,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,17,57,70,1,1.00,1,Dutch
+227,Iemand anders,5,108062,1,17,57,70,1,2.00,1,Dutch
+228,Leuk weetje,4,6535,1,17,57,70,1,2.00,1,Dutch
+229,De goeie plek,21,270,1,17,57,70,1,1.00,1,Dutch
+230,Ben gek op,,6409,0,17,57,70,1,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,17,57,70,1,2.00,1,Dutch
+232,Het spijt me,11,9737,1,17,57,70,1,1.00,1,Dutch
+1,to drop me off,,10661,0,18,54,72,1,2,1,English
+2,a rough patch,,1193,0,18,54,72,1,1,1,English
+3,give me a ride,,8601,0,18,54,72,1,2,1,English
+4,to plug in,,2268,0,18,54,72,1,2,1,English
+5,to keep up,,20554,0,18,54,72,1,2,1,English
+6,to be supposed to,18,158126,1,18,54,72,1,2,1,English
+7,maid of honour,,2430,0,18,54,72,1,2,1,English
+8,I used to,7,68648,1,18,54,72,1,2,1,English
+9,on the same page,,2889,0,18,54,72,1,2,1,English
+10,a vow of silence,4,575,1,18,54,72,1,1,1,English
+11,no big deal,6,13979,1,18,54,72,1,2,1,English
+12,on your own,3,26888,1,18,54,72,1,4,2,English
+13,do for a living,3,4899,1,18,54,72,1,4,2,English
+14,Jalapeño poppers,4,60,1,18,54,72,1,1,1,English
+15,catch a cold,,2344,0,18,54,72,1,4,2,English
+18,why don't you,12,51952,1,18,54,72,1,2,1,English
+19,a marriage councelor,3,176,1,18,54,72,1,1,1,English
+20,proud of you,3,25471,1,18,54,72,1,2,1,English
+21,say no more,3,3487,1,18,54,72,1,4,2,English
+22,show somebody around,,4902,0,18,54,72,1,3,2,English
+23,figure out,15,89129,1,18,54,72,1,1,1,English
+24,break a promise,3,482,1,18,54,72,1,4,2,English
+25,give me a hand,,18448,0,18,54,72,1,2,1,English
+26,go ahead,3,130817,1,18,54,72,1,2,1,English
+27,pretend to be,5,18299,1,18,54,72,1,2,1,English
+29,to lie down,,22256,0,18,54,72,1,2,1,English
+30,I would rather,3,44548,1,18,54,72,1,2,1,English
+31,designated driver,3,611,1,18,54,72,1,1,1,English
+32,find a way to,4,20085,1,18,54,72,1,4,2,English
+33,stretch your legs,,1430,0,18,54,72,1,4,2,English
+34,to look for,3,15246,1,18,54,72,1,2,1,English
+36,look out for each other,,895,0,18,54,72,1,4,2,English
+37,best man,3,10717,1,18,54,72,1,2,1,English
+38,to show up,3,7125,1,18,54,72,1,2,1,English
+40,to make sure,3,46557,1,18,54,72,1,2,1,English
+41,to be allowed to,3,581,1,18,54,72,1,2,1,English
+42,let you down,3,8384,1,18,54,72,1,2,1,English
+43,grocery store,3,4060,1,18,54,72,1,4,2,English
+44,a bunch of,3,55410,1,18,54,72,1,2,1,English
+45,to get in touch with,,8118,0,18,54,72,1,2,1,English
+111,Ik heb beloofd,4,555,1,18,54,72,1,1.00,1,Dutch
+112,In deze buurt,10,5645,1,18,54,72,1,1.00,1,Dutch
+113,Wees voorzichtig,,8520,0,18,54,72,1,1.00,1,Dutch
+116,Zich vervelen,,1390,0,18,54,72,1,1.00,1,Dutch
+117,Je hoort hier,10,455,1,18,54,72,1,2.00,1,Dutch
+118,Maak in orde,,3388,0,18,54,72,1,1.00,1,Dutch
+119,Ik dacht dat,7,65317,1,18,54,72,1,1.00,1,Dutch
+200,Naar buiten,4,260816,1,18,54,72,1,1.00,1,Dutch
+201,Ik ben vermoord,5,18,1,18,54,72,1,1.00,1,Dutch
+202,Volgens mij,,435667,0,18,54,72,1,2.00,1,Dutch
+203,Gleed weg,,180,0,18,54,72,1,1.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,18,54,72,1,2.00,1,Dutch
+205,ik trakteer,,306,0,18,54,72,1,1.00,1,Dutch
+206,Geen zorgen,7,62783,1,18,54,72,1,1.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,18,54,72,1,1.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,18,54,72,1,1.00,1,Dutch
+209,Ik heb geen zin,,5288,0,18,54,72,1,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,18,54,72,1,1.00,1,Dutch
+211,Voor altijd,5,50382,1,18,54,72,1,2.00,1,Dutch
+212,Achter de rug,,57970,0,18,54,72,1,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,18,54,72,1,1.00,1,Dutch
+214,Ik weet het niet,26,26138,1,18,54,72,1,1.00,1,Dutch
+215,Dit is vreselijk,3,156,1,18,54,72,1,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,18,54,72,1,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,18,54,72,1,1.00,1,Dutch
+218,Niet te geloven,3,10514,1,18,54,72,1,1.00,1,Dutch
+219,Zeg het maar,,3720,0,18,54,72,1,1.00,1,Dutch
+220,Mijn hele leven,3,11092,1,18,54,72,1,1.00,1,Dutch
+221,Wat gezellig!,,2476,0,18,54,72,1,2.00,1,Dutch
+222,ga je mee,,4536,0,18,54,72,1,1.00,1,Dutch
+223,De slechte plek,15,139,1,18,54,72,1,2.00,1,Dutch
+224,Kijk maar,3,49858,1,18,54,72,1,3.00,2,Dutch
+225,Maak klaar,,5044,0,18,54,72,1,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,18,54,72,1,1.00,1,Dutch
+227,Iemand anders,5,108062,1,18,54,72,1,2.00,1,Dutch
+228,Leuk weetje,4,6535,1,18,54,72,1,1.00,1,Dutch
+229,De goeie plek,21,270,1,18,54,72,1,1.00,1,Dutch
+230,Ben gek op,,6409,0,18,54,72,1,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,18,54,72,1,1.00,1,Dutch
+232,Het spijt me,11,9737,1,18,54,72,1,1.00,1,Dutch
+1,to drop me off,,10661,0,19,45,42,1,2,1,English
+2,a rough patch,,1193,0,19,45,42,1,1,1,English
+3,give me a ride,,8601,0,19,45,42,1,2,1,English
+4,to plug in,,2268,0,19,45,42,1,2,1,English
+5,to keep up,,20554,0,19,45,42,1,2,1,English
+6,to be supposed to,18,158126,1,19,45,42,1,1,1,English
+7,maid of honour,,2430,0,19,45,42,1,1,1,English
+8,I used to,7,68648,1,19,45,42,1,2,1,English
+9,on the same page,,2889,0,19,45,42,1,1,1,English
+10,a vow of silence,4,575,1,19,45,42,1,1,1,English
+11,no big deal,6,13979,1,19,45,42,1,2,1,English
+12,on your own,3,26888,1,19,45,42,1,1,1,English
+13,do for a living,3,4899,1,19,45,42,1,2,1,English
+14,Jalapeño poppers,4,60,1,19,45,42,1,2,1,English
+15,catch a cold,,2344,0,19,45,42,1,1,1,English
+18,why don't you,12,51952,1,19,45,42,1,2,1,English
+19,a marriage councelor,3,176,1,19,45,42,1,2,1,English
+20,proud of you,3,25471,1,19,45,42,1,2,1,English
+21,say no more,3,3487,1,19,45,42,1,2,1,English
+22,show somebody around,,4902,0,19,45,42,1,1,1,English
+23,figure out,15,89129,1,19,45,42,1,2,1,English
+24,break a promise,3,482,1,19,45,42,1,2,1,English
+25,give me a hand,,18448,0,19,45,42,1,1,1,English
+26,go ahead,3,130817,1,19,45,42,1,2,1,English
+27,pretend to be,5,18299,1,19,45,42,1,1,1,English
+29,to lie down,,22256,0,19,45,42,1,1,1,English
+30,I would rather,3,44548,1,19,45,42,1,1,1,English
+31,designated driver,3,611,1,19,45,42,1,2,1,English
+32,find a way to,4,20085,1,19,45,42,1,2,1,English
+33,stretch your legs,,1430,0,19,45,42,1,1,1,English
+34,to look for,3,15246,1,19,45,42,1,2,1,English
+36,look out for each other,,895,0,19,45,42,1,1,1,English
+37,best man,3,10717,1,19,45,42,1,2,1,English
+38,to show up,3,7125,1,19,45,42,1,2,1,English
+40,to make sure,3,46557,1,19,45,42,1,2,1,English
+41,to be allowed to,3,581,1,19,45,42,1,2,1,English
+42,let you down,3,8384,1,19,45,42,1,2,1,English
+43,grocery store,3,4060,1,19,45,42,1,1,1,English
+44,a bunch of,3,55410,1,19,45,42,1,2,1,English
+45,to get in touch with,,8118,0,19,45,42,1,1,1,English
+111,Ik heb beloofd,4,555,1,19,45,42,1,1.00,1,Dutch
+112,In deze buurt,10,5645,1,19,45,42,1,1.00,1,Dutch
+113,Wees voorzichtig,,8520,0,19,45,42,1,2.00,1,Dutch
+116,Zich vervelen,,1390,0,19,45,42,1,2.00,1,Dutch
+117,Je hoort hier,10,455,1,19,45,42,1,1.00,1,Dutch
+118,Maak in orde,,3388,0,19,45,42,1,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,19,45,42,1,2.00,1,Dutch
+200,Naar buiten,4,260816,1,19,45,42,1,1.00,1,Dutch
+201,Ik ben vermoord,5,18,1,19,45,42,1,2.00,1,Dutch
+202,Volgens mij,,435667,0,19,45,42,1,1.00,1,Dutch
+203,Gleed weg,,180,0,19,45,42,1,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,19,45,42,1,2.00,1,Dutch
+205,ik trakteer,,306,0,19,45,42,1,1.00,1,Dutch
+206,Geen zorgen,7,62783,1,19,45,42,1,1.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,19,45,42,1,1.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,19,45,42,1,1.00,1,Dutch
+209,Ik heb geen zin,,5288,0,19,45,42,1,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,19,45,42,1,1.00,1,Dutch
+211,Voor altijd,5,50382,1,19,45,42,1,1.00,1,Dutch
+212,Achter de rug,,57970,0,19,45,42,1,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,19,45,42,1,1.00,1,Dutch
+214,Ik weet het niet,26,26138,1,19,45,42,1,2.00,1,Dutch
+215,Dit is vreselijk,3,156,1,19,45,42,1,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,19,45,42,1,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,19,45,42,1,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,19,45,42,1,2.00,1,Dutch
+219,Zeg het maar,,3720,0,19,45,42,1,1.00,1,Dutch
+220,Mijn hele leven,3,11092,1,19,45,42,1,1.00,1,Dutch
+221,Wat gezellig!,,2476,0,19,45,42,1,1.00,1,Dutch
+222,ga je mee,,4536,0,19,45,42,1,1.00,1,Dutch
+223,De slechte plek,15,139,1,19,45,42,1,1.00,1,Dutch
+224,Kijk maar,3,49858,1,19,45,42,1,1.00,1,Dutch
+225,Maak klaar,,5044,0,19,45,42,1,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,19,45,42,1,1.00,1,Dutch
+227,Iemand anders,5,108062,1,19,45,42,1,1.00,1,Dutch
+228,Leuk weetje,4,6535,1,19,45,42,1,1.00,1,Dutch
+229,De goeie plek,21,270,1,19,45,42,1,1.00,1,Dutch
+230,Ben gek op,,6409,0,19,45,42,1,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,19,45,42,1,1.00,1,Dutch
+232,Het spijt me,11,9737,1,19,45,42,1,1.00,1,Dutch
+1,to drop me off,,10661,0,20,52,62,1,2,1,English
+2,a rough patch,,1193,0,20,52,62,1,2,1,English
+3,give me a ride,,8601,0,20,52,62,1,2,1,English
+4,to plug in,,2268,0,20,52,62,1,2,1,English
+5,to keep up,,20554,0,20,52,62,1,2,1,English
+6,to be supposed to,18,158126,1,20,52,62,1,2,1,English
+7,maid of honour,,2430,0,20,52,62,1,2,1,English
+8,I used to,7,68648,1,20,52,62,1,3,2,English
+9,on the same page,,2889,0,20,52,62,1,2,1,English
+10,a vow of silence,4,575,1,20,52,62,1,4,2,English
+11,no big deal,6,13979,1,20,52,62,1,4,2,English
+12,on your own,3,26888,1,20,52,62,1,2,1,English
+13,do for a living,3,4899,1,20,52,62,1,2,1,English
+14,Jalapeño poppers,4,60,1,20,52,62,1,2,1,English
+15,catch a cold,,2344,0,20,52,62,1,3,2,English
+18,why don't you,12,51952,1,20,52,62,1,4,2,English
+19,a marriage councelor,3,176,1,20,52,62,1,2,1,English
+20,proud of you,3,25471,1,20,52,62,1,1,1,English
+21,say no more,3,3487,1,20,52,62,1,1,1,English
+22,show somebody around,,4902,0,20,52,62,1,1,1,English
+23,figure out,15,89129,1,20,52,62,1,1,1,English
+24,break a promise,3,482,1,20,52,62,1,1,1,English
+25,give me a hand,,18448,0,20,52,62,1,1,1,English
+26,go ahead,3,130817,1,20,52,62,1,2,1,English
+27,pretend to be,5,18299,1,20,52,62,1,1,1,English
+29,to lie down,,22256,0,20,52,62,1,1,1,English
+30,I would rather,3,44548,1,20,52,62,1,1,1,English
+31,designated driver,3,611,1,20,52,62,1,1,1,English
+32,find a way to,4,20085,1,20,52,62,1,1,1,English
+33,stretch your legs,,1430,0,20,52,62,1,2,1,English
+34,to look for,3,15246,1,20,52,62,1,2,1,English
+36,look out for each other,,895,0,20,52,62,1,2,1,English
+37,best man,3,10717,1,20,52,62,1,2,1,English
+38,to show up,3,7125,1,20,52,62,1,2,1,English
+40,to make sure,3,46557,1,20,52,62,1,1,1,English
+41,to be allowed to,3,581,1,20,52,62,1,1,1,English
+42,let you down,3,8384,1,20,52,62,1,1,1,English
+43,grocery store,3,4060,1,20,52,62,1,1,1,English
+44,a bunch of,3,55410,1,20,52,62,1,1,1,English
+45,to get in touch with,,8118,0,20,52,62,1,1,1,English
+111,Ik heb beloofd,4,555,1,20,52,62,1,1.00,1,Dutch
+112,In deze buurt,10,5645,1,20,52,62,1,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,20,52,62,1,2.00,1,Dutch
+116,Zich vervelen,,1390,0,20,52,62,1,2.00,1,Dutch
+117,Je hoort hier,10,455,1,20,52,62,1,2.00,1,Dutch
+118,Maak in orde,,3388,0,20,52,62,1,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,20,52,62,1,2.00,1,Dutch
+200,Naar buiten,4,260816,1,20,52,62,1,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,20,52,62,1,2.00,1,Dutch
+202,Volgens mij,,435667,0,20,52,62,1,4.00,2,Dutch
+203,Gleed weg,,180,0,20,52,62,1,1.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,20,52,62,1,2.00,1,Dutch
+205,ik trakteer,,306,0,20,52,62,1,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,20,52,62,1,1.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,20,52,62,1,1.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,20,52,62,1,1.00,1,Dutch
+209,Ik heb geen zin,,5288,0,20,52,62,1,4.00,2,Dutch
+210,Mijn zielsverwant,7,104,1,20,52,62,1,1.00,1,Dutch
+211,Voor altijd,5,50382,1,20,52,62,1,1.00,1,Dutch
+212,Achter de rug,,57970,0,20,52,62,1,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,20,52,62,1,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,20,52,62,1,1.00,1,Dutch
+215,Dit is vreselijk,3,156,1,20,52,62,1,2.00,1,Dutch
+216,Zinkput des verderfs,6,,1,20,52,62,1,2.00,1,Dutch
+217,Ik ben toe aan,,465,0,20,52,62,1,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,20,52,62,1,2.00,1,Dutch
+219,Zeg het maar,,3720,0,20,52,62,1,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,20,52,62,1,1.00,1,Dutch
+221,Wat gezellig!,,2476,0,20,52,62,1,4.00,2,Dutch
+222,ga je mee,,4536,0,20,52,62,1,2.00,1,Dutch
+223,De slechte plek,15,139,1,20,52,62,1,2.00,1,Dutch
+224,Kijk maar,3,49858,1,20,52,62,1,1.00,1,Dutch
+225,Maak klaar,,5044,0,20,52,62,1,4.00,2,Dutch
+226,Ik ben dol op,6,8180,1,20,52,62,1,1.00,1,Dutch
+227,Iemand anders,5,108062,1,20,52,62,1,1.00,1,Dutch
+228,Leuk weetje,4,6535,1,20,52,62,1,1.00,1,Dutch
+229,De goeie plek,21,270,1,20,52,62,1,2.00,1,Dutch
+230,Ben gek op,,6409,0,20,52,62,1,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,20,52,62,1,4.00,2,Dutch
+232,Het spijt me,11,9737,1,20,52,62,1,4.00,2,Dutch
+1,to drop me off,,10661,0,3,51,78,2,2,1,English
+2,a rough patch,,1193,0,3,51,78,2,2,1,English
+3,give me a ride,,8601,0,3,51,78,2,2,1,English
+4,to plug in,,2268,0,3,51,78,2,2,1,English
+5,to keep up,,20554,0,3,51,78,2,2,1,English
+6,to be supposed to,18,158126,1,3,51,78,2,2,1,English
+7,maid of honour,,2430,0,3,51,78,2,1,1,English
+8,I used to,7,68648,1,3,51,78,2,2,1,English
+9,on the same page,,2889,0,3,51,78,2,2,1,English
+10,a vow of silence,4,575,1,3,51,78,2,2,1,English
+11,no big deal,6,13979,1,3,51,78,2,2,1,English
+12,on your own,3,26888,1,3,51,78,2,2,1,English
+13,do for a living,3,4899,1,3,51,78,2,2,1,English
+14,Jalapeño poppers,4,60,1,3,51,78,2,1,1,English
+15,catch a cold,,2344,0,3,51,78,2,2,1,English
+18,why don't you,12,51952,1,3,51,78,2,2,1,English
+19,a marriage councelor,3,176,1,3,51,78,2,1,1,English
+20,proud of you,3,25471,1,3,51,78,2,2,1,English
+21,say no more,3,3487,1,3,51,78,2,3,2,English
+22,show somebody around,,4902,0,3,51,78,2,2,1,English
+23,figure out,15,89129,1,3,51,78,2,2,1,English
+24,break a promise,3,482,1,3,51,78,2,2,1,English
+25,give me a hand,,18448,0,3,51,78,2,5,2,English
+26,go ahead,3,130817,1,3,51,78,2,2,1,English
+27,pretend to be,5,18299,1,3,51,78,2,2,1,English
+29,to lie down,,22256,0,3,51,78,2,2,1,English
+30,I would rather,3,44548,1,3,51,78,2,2,1,English
+31,designated driver,3,611,1,3,51,78,2,2,1,English
+32,find a way to,4,20085,1,3,51,78,2,2,1,English
+33,stretch your legs,,1430,0,3,51,78,2,2,1,English
+34,to look for,3,15246,1,3,51,78,2,4,2,English
+36,look out for each other,,895,0,3,51,78,2,5,2,English
+37,best man,3,10717,1,3,51,78,2,2,1,English
+38,to show up,3,7125,1,3,51,78,2,2,1,English
+40,to make sure,3,46557,1,3,51,78,2,2,1,English
+41,to be allowed to,3,581,1,3,51,78,2,2,1,English
+42,let you down,3,8384,1,3,51,78,2,2,1,English
+43,grocery store,3,4060,1,3,51,78,2,2,1,English
+44,a bunch of,3,55410,1,3,51,78,2,2,1,English
+45,to get in touch with,,8118,0,3,51,78,2,2,1,English
+111,Ik heb beloofd,4,555,1,3,51,78,2,2.00,1,Dutch
+112,In deze buurt,10,5645,1,3,51,78,2,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,3,51,78,2,1.00,1,Dutch
+116,Zich vervelen,,1390,0,3,51,78,2,1.00,1,Dutch
+117,Je hoort hier,10,455,1,3,51,78,2,2.00,1,Dutch
+118,Maak in orde,,3388,0,3,51,78,2,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,3,51,78,2,2.00,1,Dutch
+200,Naar buiten,4,260816,1,3,51,78,2,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,3,51,78,2,2.00,1,Dutch
+202,Volgens mij,,435667,0,3,51,78,2,2.00,1,Dutch
+203,Gleed weg,,180,0,3,51,78,2,1.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,3,51,78,2,1.00,1,Dutch
+205,ik trakteer,,306,0,3,51,78,2,1.00,1,Dutch
+206,Geen zorgen,7,62783,1,3,51,78,2,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,3,51,78,2,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,3,51,78,2,2.00,1,Dutch
+209,Ik heb geen zin,,5288,0,3,51,78,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,3,51,78,2,1.00,1,Dutch
+211,Voor altijd,5,50382,1,3,51,78,2,1.00,1,Dutch
+212,Achter de rug,,57970,0,3,51,78,2,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,3,51,78,2,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,3,51,78,2,2.00,1,Dutch
+215,Dit is vreselijk,3,156,1,3,51,78,2,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,3,51,78,2,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,3,51,78,2,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,3,51,78,2,1.00,1,Dutch
+219,Zeg het maar,,3720,0,3,51,78,2,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,3,51,78,2,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,3,51,78,2,2.00,1,Dutch
+222,ga je mee,,4536,0,3,51,78,2,2.00,1,Dutch
+223,De slechte plek,15,139,1,3,51,78,2,1.00,1,Dutch
+224,Kijk maar,3,49858,1,3,51,78,2,2.00,1,Dutch
+225,Maak klaar,,5044,0,3,51,78,2,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,3,51,78,2,2.00,1,Dutch
+227,Iemand anders,5,108062,1,3,51,78,2,2.00,1,Dutch
+228,Leuk weetje,4,6535,1,3,51,78,2,1.00,1,Dutch
+229,De goeie plek,21,270,1,3,51,78,2,1.00,1,Dutch
+230,Ben gek op,,6409,0,3,51,78,2,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,3,51,78,2,2.00,1,Dutch
+232,Het spijt me,11,9737,1,3,51,78,2,2.00,1,Dutch
+1,to drop me off,,10661,0,4,39,65,2,2,1,English
+2,a rough patch,,1193,0,4,39,65,2,1,1,English
+3,give me a ride,,8601,0,4,39,65,2,2,1,English
+4,to plug in,,2268,0,4,39,65,2,1,1,English
+5,to keep up,,20554,0,4,39,65,2,2,1,English
+6,to be supposed to,18,158126,1,4,39,65,2,1,1,English
+7,maid of honour,,2430,0,4,39,65,2,1,1,English
+8,I used to,7,68648,1,4,39,65,2,2,1,English
+9,on the same page,,2889,0,4,39,65,2,2,1,English
+10,a vow of silence,4,575,1,4,39,65,2,1,1,English
+11,no big deal,6,13979,1,4,39,65,2,2,1,English
+12,on your own,3,26888,1,4,39,65,2,2,1,English
+13,do for a living,3,4899,1,4,39,65,2,2,1,English
+14,Jalapeño poppers,4,60,1,4,39,65,2,1,1,English
+15,catch a cold,,2344,0,4,39,65,2,2,1,English
+18,why don't you,12,51952,1,4,39,65,2,2,1,English
+19,a marriage councelor,3,176,1,4,39,65,2,1,1,English
+20,proud of you,3,25471,1,4,39,65,2,1,1,English
+21,say no more,3,3487,1,4,39,65,2,1,1,English
+22,show somebody around,,4902,0,4,39,65,2,2,1,English
+23,figure out,15,89129,1,4,39,65,2,2,1,English
+24,break a promise,3,482,1,4,39,65,2,2,1,English
+25,give me a hand,,18448,0,4,39,65,2,2,1,English
+26,go ahead,3,130817,1,4,39,65,2,1,1,English
+27,pretend to be,5,18299,1,4,39,65,2,2,1,English
+29,to lie down,,22256,0,4,39,65,2,1,1,English
+30,I would rather,3,44548,1,4,39,65,2,2,1,English
+31,designated driver,3,611,1,4,39,65,2,1,1,English
+32,find a way to,4,20085,1,4,39,65,2,2,1,English
+33,stretch your legs,,1430,0,4,39,65,2,1,1,English
+34,to look for,3,15246,1,4,39,65,2,2,1,English
+36,look out for each other,,895,0,4,39,65,2,2,1,English
+37,best man,3,10717,1,4,39,65,2,2,1,English
+38,to show up,3,7125,1,4,39,65,2,2,1,English
+40,to make sure,3,46557,1,4,39,65,2,2,1,English
+41,to be allowed to,3,581,1,4,39,65,2,1,1,English
+42,let you down,3,8384,1,4,39,65,2,2,1,English
+43,grocery store,3,4060,1,4,39,65,2,1,1,English
+44,a bunch of,3,55410,1,4,39,65,2,1,1,English
+45,to get in touch with,,8118,0,4,39,65,2,2,1,English
+111,Ik heb beloofd,4,555,1,4,39,65,2,1.00,1,Dutch
+112,In deze buurt,10,5645,1,4,39,65,2,1.00,1,Dutch
+113,Wees voorzichtig,,8520,0,4,39,65,2,1.00,1,Dutch
+116,Zich vervelen,,1390,0,4,39,65,2,1.00,1,Dutch
+117,Je hoort hier,10,455,1,4,39,65,2,2.00,1,Dutch
+118,Maak in orde,,3388,0,4,39,65,2,1.00,1,Dutch
+119,Ik dacht dat,7,65317,1,4,39,65,2,1.00,1,Dutch
+200,Naar buiten,4,260816,1,4,39,65,2,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,4,39,65,2,1.00,1,Dutch
+202,Volgens mij,,435667,0,4,39,65,2,2.00,1,Dutch
+203,Gleed weg,,180,0,4,39,65,2,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,4,39,65,2,2.00,1,Dutch
+205,ik trakteer,,306,0,4,39,65,2,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,4,39,65,2,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,4,39,65,2,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,4,39,65,2,1.00,1,Dutch
+209,Ik heb geen zin,,5288,0,4,39,65,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,4,39,65,2,2.00,1,Dutch
+211,Voor altijd,5,50382,1,4,39,65,2,1.00,1,Dutch
+212,Achter de rug,,57970,0,4,39,65,2,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,4,39,65,2,1.00,1,Dutch
+214,Ik weet het niet,26,26138,1,4,39,65,2,2.00,1,Dutch
+215,Dit is vreselijk,3,156,1,4,39,65,2,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,4,39,65,2,2.00,1,Dutch
+217,Ik ben toe aan,,465,0,4,39,65,2,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,4,39,65,2,1.00,1,Dutch
+219,Zeg het maar,,3720,0,4,39,65,2,1.00,1,Dutch
+220,Mijn hele leven,3,11092,1,4,39,65,2,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,4,39,65,2,2.00,1,Dutch
+222,ga je mee,,4536,0,4,39,65,2,1.00,1,Dutch
+223,De slechte plek,15,139,1,4,39,65,2,2.00,1,Dutch
+224,Kijk maar,3,49858,1,4,39,65,2,2.00,1,Dutch
+225,Maak klaar,,5044,0,4,39,65,2,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,4,39,65,2,2.00,1,Dutch
+227,Iemand anders,5,108062,1,4,39,65,2,2.00,1,Dutch
+228,Leuk weetje,4,6535,1,4,39,65,2,2.00,1,Dutch
+229,De goeie plek,21,270,1,4,39,65,2,1.00,1,Dutch
+230,Ben gek op,,6409,0,4,39,65,2,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,4,39,65,2,2.00,1,Dutch
+232,Het spijt me,11,9737,1,4,39,65,2,2.00,1,Dutch
+1,to drop me off,,10661,0,5,55,62,2,2,1,English
+2,a rough patch,,1193,0,5,55,62,2,1,1,English
+3,give me a ride,,8601,0,5,55,62,2,2,1,English
+4,to plug in,,2268,0,5,55,62,2,1,1,English
+5,to keep up,,20554,0,5,55,62,2,2,1,English
+6,to be supposed to,18,158126,1,5,55,62,2,2,1,English
+7,maid of honour,,2430,0,5,55,62,2,1,1,English
+8,I used to,7,68648,1,5,55,62,2,2,1,English
+9,on the same page,,2889,0,5,55,62,2,2,1,English
+10,a vow of silence,4,575,1,5,55,62,2,1,1,English
+11,no big deal,6,13979,1,5,55,62,2,2,1,English
+12,on your own,3,26888,1,5,55,62,2,2,1,English
+13,do for a living,3,4899,1,5,55,62,2,2,1,English
+14,Jalapeño poppers,4,60,1,5,55,62,2,2,1,English
+15,catch a cold,,2344,0,5,55,62,2,2,1,English
+18,why don't you,12,51952,1,5,55,62,2,2,1,English
+19,a marriage councelor,3,176,1,5,55,62,2,1,1,English
+20,proud of you,3,25471,1,5,55,62,2,1,1,English
+21,say no more,3,3487,1,5,55,62,2,1,1,English
+22,show somebody around,,4902,0,5,55,62,2,2,1,English
+23,figure out,15,89129,1,5,55,62,2,1,1,English
+24,break a promise,3,482,1,5,55,62,2,4,2,English
+25,give me a hand,,18448,0,5,55,62,2,2,1,English
+26,go ahead,3,130817,1,5,55,62,2,2,1,English
+27,pretend to be,5,18299,1,5,55,62,2,1,1,English
+29,to lie down,,22256,0,5,55,62,2,2,1,English
+30,I would rather,3,44548,1,5,55,62,2,1,1,English
+31,designated driver,3,611,1,5,55,62,2,2,1,English
+32,find a way to,4,20085,1,5,55,62,2,1,1,English
+33,stretch your legs,,1430,0,5,55,62,2,2,1,English
+34,to look for,3,15246,1,5,55,62,2,2,1,English
+36,look out for each other,,895,0,5,55,62,2,2,1,English
+37,best man,3,10717,1,5,55,62,2,2,1,English
+38,to show up,3,7125,1,5,55,62,2,2,1,English
+40,to make sure,3,46557,1,5,55,62,2,2,1,English
+41,to be allowed to,3,581,1,5,55,62,2,1,1,English
+42,let you down,3,8384,1,5,55,62,2,2,1,English
+43,grocery store,3,4060,1,5,55,62,2,2,1,English
+44,a bunch of,3,55410,1,5,55,62,2,2,1,English
+45,to get in touch with,,8118,0,5,55,62,2,2,1,English
+111,Ik heb beloofd,4,555,1,5,55,62,2,2.00,1,Dutch
+112,In deze buurt,10,5645,1,5,55,62,2,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,5,55,62,2,1.00,1,Dutch
+116,Zich vervelen,,1390,0,5,55,62,2,1.00,1,Dutch
+117,Je hoort hier,10,455,1,5,55,62,2,1.00,1,Dutch
+118,Maak in orde,,3388,0,5,55,62,2,1.00,1,Dutch
+119,Ik dacht dat,7,65317,1,5,55,62,2,2.00,1,Dutch
+200,Naar buiten,4,260816,1,5,55,62,2,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,5,55,62,2,1.00,1,Dutch
+202,Volgens mij,,435667,0,5,55,62,2,1.00,1,Dutch
+203,Gleed weg,,180,0,5,55,62,2,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,5,55,62,2,1.00,1,Dutch
+205,ik trakteer,,306,0,5,55,62,2,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,5,55,62,2,1.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,5,55,62,2,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,5,55,62,2,2.00,1,Dutch
+209,Ik heb geen zin,,5288,0,5,55,62,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,5,55,62,2,2.00,1,Dutch
+211,Voor altijd,5,50382,1,5,55,62,2,1.00,1,Dutch
+212,Achter de rug,,57970,0,5,55,62,2,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,5,55,62,2,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,5,55,62,2,2.00,1,Dutch
+215,Dit is vreselijk,3,156,1,5,55,62,2,2.00,1,Dutch
+216,Zinkput des verderfs,6,,1,5,55,62,2,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,5,55,62,2,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,5,55,62,2,2.00,1,Dutch
+219,Zeg het maar,,3720,0,5,55,62,2,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,5,55,62,2,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,5,55,62,2,2.00,1,Dutch
+222,ga je mee,,4536,0,5,55,62,2,1.00,1,Dutch
+223,De slechte plek,15,139,1,5,55,62,2,2.00,1,Dutch
+224,Kijk maar,3,49858,1,5,55,62,2,3.00,2,Dutch
+225,Maak klaar,,5044,0,5,55,62,2,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,5,55,62,2,2.00,1,Dutch
+227,Iemand anders,5,108062,1,5,55,62,2,2.00,1,Dutch
+228,Leuk weetje,4,6535,1,5,55,62,2,1.00,1,Dutch
+229,De goeie plek,21,270,1,5,55,62,2,2.00,1,Dutch
+230,Ben gek op,,6409,0,5,55,62,2,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,5,55,62,2,2.00,1,Dutch
+232,Het spijt me,11,9737,1,5,55,62,2,2.00,1,Dutch
+1,to drop me off,,10661,0,6,61,68,2,2,1,English
+2,a rough patch,,1193,0,6,61,68,2,2,1,English
+3,give me a ride,,8601,0,6,61,68,2,2,1,English
+4,to plug in,,2268,0,6,61,68,2,2,1,English
+5,to keep up,,20554,0,6,61,68,2,2,1,English
+6,to be supposed to,18,158126,1,6,61,68,2,2,1,English
+7,maid of honour,,2430,0,6,61,68,2,2,1,English
+8,I used to,7,68648,1,6,61,68,2,2,1,English
+9,on the same page,,2889,0,6,61,68,2,2,1,English
+10,a vow of silence,4,575,1,6,61,68,2,2,1,English
+11,no big deal,6,13979,1,6,61,68,2,2,1,English
+12,on your own,3,26888,1,6,61,68,2,2,1,English
+13,do for a living,3,4899,1,6,61,68,2,2,1,English
+14,Jalapeño poppers,4,60,1,6,61,68,2,2,1,English
+15,catch a cold,,2344,0,6,61,68,2,2,1,English
+18,why don't you,12,51952,1,6,61,68,2,2,1,English
+19,a marriage councelor,3,176,1,6,61,68,2,2,1,English
+20,proud of you,3,25471,1,6,61,68,2,2,1,English
+21,say no more,3,3487,1,6,61,68,2,2,1,English
+22,show somebody around,,4902,0,6,61,68,2,2,1,English
+23,figure out,15,89129,1,6,61,68,2,2,1,English
+24,break a promise,3,482,1,6,61,68,2,2,1,English
+25,give me a hand,,18448,0,6,61,68,2,2,1,English
+26,go ahead,3,130817,1,6,61,68,2,2,1,English
+27,pretend to be,5,18299,1,6,61,68,2,2,1,English
+29,to lie down,,22256,0,6,61,68,2,2,1,English
+30,I would rather,3,44548,1,6,61,68,2,2,1,English
+31,designated driver,3,611,1,6,61,68,2,2,1,English
+32,find a way to,4,20085,1,6,61,68,2,2,1,English
+33,stretch your legs,,1430,0,6,61,68,2,2,1,English
+34,to look for,3,15246,1,6,61,68,2,2,1,English
+36,look out for each other,,895,0,6,61,68,2,2,1,English
+37,best man,3,10717,1,6,61,68,2,2,1,English
+38,to show up,3,7125,1,6,61,68,2,2,1,English
+40,to make sure,3,46557,1,6,61,68,2,2,1,English
+41,to be allowed to,3,581,1,6,61,68,2,2,1,English
+42,let you down,3,8384,1,6,61,68,2,2,1,English
+43,grocery store,3,4060,1,6,61,68,2,3,2,English
+44,a bunch of,3,55410,1,6,61,68,2,2,1,English
+45,to get in touch with,,8118,0,6,61,68,2,2,1,English
+111,Ik heb beloofd,4,555,1,6,61,68,2,3.00,2,Dutch
+112,In deze buurt,10,5645,1,6,61,68,2,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,6,61,68,2,2.00,1,Dutch
+116,Zich vervelen,,1390,0,6,61,68,2,3.00,2,Dutch
+117,Je hoort hier,10,455,1,6,61,68,2,2.00,1,Dutch
+118,Maak in orde,,3388,0,6,61,68,2,2.00,2,Dutch
+119,Ik dacht dat,7,65317,1,6,61,68,2,2.00,1,Dutch
+200,Naar buiten,4,260816,1,6,61,68,2,3.00,2,Dutch
+201,Ik ben vermoord,5,18,1,6,61,68,2,3.00,2,Dutch
+202,Volgens mij,,435667,0,6,61,68,2,2.00,1,Dutch
+203,Gleed weg,,180,0,6,61,68,2,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,6,61,68,2,4.00,2,Dutch
+205,ik trakteer,,306,0,6,61,68,2,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,6,61,68,2,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,6,61,68,2,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,6,61,68,2,2.00,1,Dutch
+209,Ik heb geen zin,,5288,0,6,61,68,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,6,61,68,2,2.00,1,Dutch
+211,Voor altijd,5,50382,1,6,61,68,2,2.00,1,Dutch
+212,Achter de rug,,57970,0,6,61,68,2,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,6,61,68,2,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,6,61,68,2,1.00,1,Dutch
+215,Dit is vreselijk,3,156,1,6,61,68,2,2.00,1,Dutch
+216,Zinkput des verderfs,6,,1,6,61,68,2,2.00,1,Dutch
+217,Ik ben toe aan,,465,0,6,61,68,2,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,6,61,68,2,2.00,1,Dutch
+219,Zeg het maar,,3720,0,6,61,68,2,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,6,61,68,2,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,6,61,68,2,2.00,1,Dutch
+222,ga je mee,,4536,0,6,61,68,2,2.00,1,Dutch
+223,De slechte plek,15,139,1,6,61,68,2,2.00,1,Dutch
+224,Kijk maar,3,49858,1,6,61,68,2,3.00,2,Dutch
+225,Maak klaar,,5044,0,6,61,68,2,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,6,61,68,2,2.00,1,Dutch
+227,Iemand anders,5,108062,1,6,61,68,2,2.00,1,Dutch
+228,Leuk weetje,4,6535,1,6,61,68,2,2.00,1,Dutch
+229,De goeie plek,21,270,1,6,61,68,2,2.00,1,Dutch
+230,Ben gek op,,6409,0,6,61,68,2,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,6,61,68,2,2.00,1,Dutch
+232,Het spijt me,11,9737,1,6,61,68,2,1.00,1,Dutch
+1,to drop me off,,10661,0,7,66,80,2,2,1,English
+2,a rough patch,,1193,0,7,66,80,2,2,1,English
+3,give me a ride,,8601,0,7,66,80,2,2,1,English
+4,to plug in,,2268,0,7,66,80,2,5,2,English
+5,to keep up,,20554,0,7,66,80,2,2,1,English
+6,to be supposed to,18,158126,1,7,66,80,2,2,1,English
+7,maid of honour,,2430,0,7,66,80,2,2,1,English
+8,I used to,7,68648,1,7,66,80,2,2,1,English
+9,on the same page,,2889,0,7,66,80,2,2,1,English
+10,a vow of silence,4,575,1,7,66,80,2,2,1,English
+11,no big deal,6,13979,1,7,66,80,2,5,2,English
+12,on your own,3,26888,1,7,66,80,2,2,1,English
+13,do for a living,3,4899,1,7,66,80,2,2,1,English
+14,Jalapeño poppers,4,60,1,7,66,80,2,2,1,English
+15,catch a cold,,2344,0,7,66,80,2,5,2,English
+18,why don't you,12,51952,1,7,66,80,2,5,2,English
+19,a marriage councelor,3,176,1,7,66,80,2,2,1,English
+20,proud of you,3,25471,1,7,66,80,2,5,2,English
+21,say no more,3,3487,1,7,66,80,2,5,2,English
+22,show somebody around,,4902,0,7,66,80,2,2,1,English
+23,figure out,15,89129,1,7,66,80,2,2,1,English
+24,break a promise,3,482,1,7,66,80,2,4,2,English
+25,give me a hand,,18448,0,7,66,80,2,5,2,English
+26,go ahead,3,130817,1,7,66,80,2,2,1,English
+27,pretend to be,5,18299,1,7,66,80,2,5,2,English
+29,to lie down,,22256,0,7,66,80,2,5,2,English
+30,I would rather,3,44548,1,7,66,80,2,5,2,English
+31,designated driver,3,611,1,7,66,80,2,2,1,English
+32,find a way to,4,20085,1,7,66,80,2,5,2,English
+33,stretch your legs,,1430,0,7,66,80,2,4,2,English
+34,to look for,3,15246,1,7,66,80,2,2,1,English
+36,look out for each other,,895,0,7,66,80,2,5,2,English
+37,best man,3,10717,1,7,66,80,2,2,1,English
+38,to show up,3,7125,1,7,66,80,2,2,1,English
+40,to make sure,3,46557,1,7,66,80,2,2,1,English
+41,to be allowed to,3,581,1,7,66,80,2,5,2,English
+42,let you down,3,8384,1,7,66,80,2,4,2,English
+43,grocery store,3,4060,1,7,66,80,2,3,2,English
+44,a bunch of,3,55410,1,7,66,80,2,2,1,English
+45,to get in touch with,,8118,0,7,66,80,2,4,2,English
+111,Ik heb beloofd,4,555,1,7,66,80,2,2.00,1,Dutch
+112,In deze buurt,10,5645,1,7,66,80,2,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,7,66,80,2,2.00,1,Dutch
+116,Zich vervelen,,1390,0,7,66,80,2,2.00,1,Dutch
+117,Je hoort hier,10,455,1,7,66,80,2,2.00,1,Dutch
+118,Maak in orde,,3388,0,7,66,80,2,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,7,66,80,2,2.00,1,Dutch
+200,Naar buiten,4,260816,1,7,66,80,2,3.00,2,Dutch
+201,Ik ben vermoord,5,18,1,7,66,80,2,4.00,2,Dutch
+202,Volgens mij,,435667,0,7,66,80,2,2.00,1,Dutch
+203,Gleed weg,,180,0,7,66,80,2,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,7,66,80,2,4.00,2,Dutch
+205,ik trakteer,,306,0,7,66,80,2,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,7,66,80,2,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,7,66,80,2,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,7,66,80,2,2.00,1,Dutch
+209,Ik heb geen zin,,5288,0,7,66,80,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,7,66,80,2,2.00,1,Dutch
+211,Voor altijd,5,50382,1,7,66,80,2,3.00,2,Dutch
+212,Achter de rug,,57970,0,7,66,80,2,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,7,66,80,2,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,7,66,80,2,3.00,2,Dutch
+215,Dit is vreselijk,3,156,1,7,66,80,2,3.00,2,Dutch
+216,Zinkput des verderfs,6,,1,7,66,80,2,2.00,1,Dutch
+217,Ik ben toe aan,,465,0,7,66,80,2,1.00,1,Dutch
+218,Niet te geloven,3,10514,1,7,66,80,2,2.00,1,Dutch
+219,Zeg het maar,,3720,0,7,66,80,2,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,7,66,80,2,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,7,66,80,2,2.00,1,Dutch
+222,ga je mee,,4536,0,7,66,80,2,2.00,1,Dutch
+223,De slechte plek,15,139,1,7,66,80,2,3.00,2,Dutch
+224,Kijk maar,3,49858,1,7,66,80,2,3.00,2,Dutch
+225,Maak klaar,,5044,0,7,66,80,2,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,7,66,80,2,2.00,1,Dutch
+227,Iemand anders,5,108062,1,7,66,80,2,3.00,2,Dutch
+228,Leuk weetje,4,6535,1,7,66,80,2,2.00,1,Dutch
+229,De goeie plek,21,270,1,7,66,80,2,2.00,1,Dutch
+230,Ben gek op,,6409,0,7,66,80,2,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,7,66,80,2,3.00,2,Dutch
+232,Het spijt me,11,9737,1,7,66,80,2,2.00,1,Dutch
+1,to drop me off,,10661,0,8,67,75,2,2,1,English
+2,a rough patch,,1193,0,8,67,75,2,4,2,English
+3,give me a ride,,8601,0,8,67,75,2,2,1,English
+4,to plug in,,2268,0,8,67,75,2,3,2,English
+5,to keep up,,20554,0,8,67,75,2,4,2,English
+6,to be supposed to,18,158126,1,8,67,75,2,2,1,English
+7,maid of honour,,2430,0,8,67,75,2,4,2,English
+8,I used to,7,68648,1,8,67,75,2,2,1,English
+9,on the same page,,2889,0,8,67,75,2,2,1,English
+10,a vow of silence,4,575,1,8,67,75,2,4,2,English
+11,no big deal,6,13979,1,8,67,75,2,4,2,English
+12,on your own,3,26888,1,8,67,75,2,4,2,English
+13,do for a living,3,4899,1,8,67,75,2,4,2,English
+14,Jalapeño poppers,4,60,1,8,67,75,2,1,1,English
+15,catch a cold,,2344,0,8,67,75,2,4,2,English
+18,why don't you,12,51952,1,8,67,75,2,2,1,English
+19,a marriage councelor,3,176,1,8,67,75,2,2,1,English
+20,proud of you,3,25471,1,8,67,75,2,4,2,English
+21,say no more,3,3487,1,8,67,75,2,4,2,English
+22,show somebody around,,4902,0,8,67,75,2,2,1,English
+23,figure out,15,89129,1,8,67,75,2,4,2,English
+24,break a promise,3,482,1,8,67,75,2,4,2,English
+25,give me a hand,,18448,0,8,67,75,2,4,2,English
+26,go ahead,3,130817,1,8,67,75,2,2,1,English
+27,pretend to be,5,18299,1,8,67,75,2,2,1,English
+29,to lie down,,22256,0,8,67,75,2,4,2,English
+30,I would rather,3,44548,1,8,67,75,2,4,2,English
+31,designated driver,3,611,1,8,67,75,2,4,2,English
+32,find a way to,4,20085,1,8,67,75,2,4,2,English
+33,stretch your legs,,1430,0,8,67,75,2,2,1,English
+34,to look for,3,15246,1,8,67,75,2,4,2,English
+36,look out for each other,,895,0,8,67,75,2,2,1,English
+37,best man,3,10717,1,8,67,75,2,2,1,English
+38,to show up,3,7125,1,8,67,75,2,4,2,English
+40,to make sure,3,46557,1,8,67,75,2,2,1,English
+41,to be allowed to,3,581,1,8,67,75,2,4,2,English
+42,let you down,3,8384,1,8,67,75,2,5,2,English
+43,grocery store,3,4060,1,8,67,75,2,2,1,English
+44,a bunch of,3,55410,1,8,67,75,2,5,2,English
+45,to get in touch with,,8118,0,8,67,75,2,4,2,English
+111,Ik heb beloofd,4,555,1,8,67,75,2,3.00,2,Dutch
+112,In deze buurt,10,5645,1,8,67,75,2,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,8,67,75,2,3.00,2,Dutch
+116,Zich vervelen,,1390,0,8,67,75,2,3.00,2,Dutch
+117,Je hoort hier,10,455,1,8,67,75,2,2.00,1,Dutch
+118,Maak in orde,,3388,0,8,67,75,2,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,8,67,75,2,2.00,1,Dutch
+200,Naar buiten,4,260816,1,8,67,75,2,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,8,67,75,2,2.00,1,Dutch
+202,Volgens mij,,435667,0,8,67,75,2,2.00,1,Dutch
+203,Gleed weg,,180,0,8,67,75,2,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,8,67,75,2,3.00,2,Dutch
+205,ik trakteer,,306,0,8,67,75,2,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,8,67,75,2,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,8,67,75,2,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,8,67,75,2,3.00,2,Dutch
+209,Ik heb geen zin,,5288,0,8,67,75,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,8,67,75,2,2.00,1,Dutch
+211,Voor altijd,5,50382,1,8,67,75,2,3.00,2,Dutch
+212,Achter de rug,,57970,0,8,67,75,2,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,8,67,75,2,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,8,67,75,2,3.00,2,Dutch
+215,Dit is vreselijk,3,156,1,8,67,75,2,2.00,1,Dutch
+216,Zinkput des verderfs,6,,1,8,67,75,2,2.00,1,Dutch
+217,Ik ben toe aan,,465,0,8,67,75,2,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,8,67,75,2,2.00,1,Dutch
+219,Zeg het maar,,3720,0,8,67,75,2,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,8,67,75,2,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,8,67,75,2,2.00,1,Dutch
+222,ga je mee,,4536,0,8,67,75,2,2.00,1,Dutch
+223,De slechte plek,15,139,1,8,67,75,2,4.00,2,Dutch
+224,Kijk maar,3,49858,1,8,67,75,2,4.00,2,Dutch
+225,Maak klaar,,5044,0,8,67,75,2,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,8,67,75,2,1.00,1,Dutch
+227,Iemand anders,5,108062,1,8,67,75,2,2.00,1,Dutch
+228,Leuk weetje,4,6535,1,8,67,75,2,2.00,1,Dutch
+229,De goeie plek,21,270,1,8,67,75,2,4.00,2,Dutch
+230,Ben gek op,,6409,0,8,67,75,2,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,8,67,75,2,3.00,2,Dutch
+232,Het spijt me,11,9737,1,8,67,75,2,4.00,2,Dutch
+1,to drop me off,,10661,0,9,49,58,2,1,1,English
+2,a rough patch,,1193,0,9,49,58,2,2,1,English
+3,give me a ride,,8601,0,9,49,58,2,2,1,English
+4,to plug in,,2268,0,9,49,58,2,2,1,English
+5,to keep up,,20554,0,9,49,58,2,2,1,English
+6,to be supposed to,18,158126,1,9,49,58,2,2,1,English
+7,maid of honour,,2430,0,9,49,58,2,1,1,English
+8,I used to,7,68648,1,9,49,58,2,2,1,English
+9,on the same page,,2889,0,9,49,58,2,1,1,English
+10,a vow of silence,4,575,1,9,49,58,2,1,1,English
+11,no big deal,6,13979,1,9,49,58,2,3,2,English
+12,on your own,3,26888,1,9,49,58,2,2,1,English
+13,do for a living,3,4899,1,9,49,58,2,2,1,English
+14,Jalapeño poppers,4,60,1,9,49,58,2,1,1,English
+15,catch a cold,,2344,0,9,49,58,2,1,1,English
+18,why don't you,12,51952,1,9,49,58,2,2,1,English
+19,a marriage councelor,3,176,1,9,49,58,2,1,1,English
+20,proud of you,3,25471,1,9,49,58,2,2,1,English
+21,say no more,3,3487,1,9,49,58,2,2,1,English
+22,show somebody around,,4902,0,9,49,58,2,2,1,English
+23,figure out,15,89129,1,9,49,58,2,2,1,English
+24,break a promise,3,482,1,9,49,58,2,2,1,English
+25,give me a hand,,18448,0,9,49,58,2,2,1,English
+26,go ahead,3,130817,1,9,49,58,2,2,1,English
+27,pretend to be,5,18299,1,9,49,58,2,1,1,English
+29,to lie down,,22256,0,9,49,58,2,2,1,English
+30,I would rather,3,44548,1,9,49,58,2,1,1,English
+31,designated driver,3,611,1,9,49,58,2,1,1,English
+32,find a way to,4,20085,1,9,49,58,2,1,1,English
+33,stretch your legs,,1430,0,9,49,58,2,1,1,English
+34,to look for,3,15246,1,9,49,58,2,2,1,English
+36,look out for each other,,895,0,9,49,58,2,1,1,English
+37,best man,3,10717,1,9,49,58,2,2,1,English
+38,to show up,3,7125,1,9,49,58,2,2,1,English
+40,to make sure,3,46557,1,9,49,58,2,2,1,English
+41,to be allowed to,3,581,1,9,49,58,2,1,1,English
+42,let you down,3,8384,1,9,49,58,2,2,1,English
+43,grocery store,3,4060,1,9,49,58,2,1,1,English
+44,a bunch of,3,55410,1,9,49,58,2,2,1,English
+45,to get in touch with,,8118,0,9,49,58,2,2,1,English
+111,Ik heb beloofd,4,555,1,9,49,58,2,2.00,1,Dutch
+112,In deze buurt,10,5645,1,9,49,58,2,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,9,49,58,2,2.00,1,Dutch
+116,Zich vervelen,,1390,0,9,49,58,2,2.00,1,Dutch
+117,Je hoort hier,10,455,1,9,49,58,2,2.00,1,Dutch
+118,Maak in orde,,3388,0,9,49,58,2,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,9,49,58,2,1.00,1,Dutch
+200,Naar buiten,4,260816,1,9,49,58,2,4.00,2,Dutch
+201,Ik ben vermoord,5,18,1,9,49,58,2,2.00,1,Dutch
+202,Volgens mij,,435667,0,9,49,58,2,1.00,1,Dutch
+203,Gleed weg,,180,0,9,49,58,2,1.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,9,49,58,2,3.00,2,Dutch
+205,ik trakteer,,306,0,9,49,58,2,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,9,49,58,2,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,9,49,58,2,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,9,49,58,2,2.00,1,Dutch
+209,Ik heb geen zin,,5288,0,9,49,58,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,9,49,58,2,2.00,1,Dutch
+211,Voor altijd,5,50382,1,9,49,58,2,2.00,1,Dutch
+212,Achter de rug,,57970,0,9,49,58,2,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,9,49,58,2,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,9,49,58,2,3.00,2,Dutch
+215,Dit is vreselijk,3,156,1,9,49,58,2,2.00,1,Dutch
+216,Zinkput des verderfs,6,,1,9,49,58,2,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,9,49,58,2,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,9,49,58,2,2.00,1,Dutch
+219,Zeg het maar,,3720,0,9,49,58,2,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,9,49,58,2,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,9,49,58,2,2.00,1,Dutch
+222,ga je mee,,4536,0,9,49,58,2,2.00,1,Dutch
+223,De slechte plek,15,139,1,9,49,58,2,2.00,1,Dutch
+224,Kijk maar,3,49858,1,9,49,58,2,3.00,2,Dutch
+225,Maak klaar,,5044,0,9,49,58,2,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,9,49,58,2,2.00,1,Dutch
+227,Iemand anders,5,108062,1,9,49,58,2,1.00,1,Dutch
+228,Leuk weetje,4,6535,1,9,49,58,2,2.00,1,Dutch
+229,De goeie plek,21,270,1,9,49,58,2,2.00,1,Dutch
+230,Ben gek op,,6409,0,9,49,58,2,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,9,49,58,2,3.00,2,Dutch
+232,Het spijt me,11,9737,1,9,49,58,2,1.00,1,Dutch
+1,to drop me off,,10661,0,11,38,70,2,2,1,English
+2,a rough patch,,1193,0,11,38,70,2,2,1,English
+3,give me a ride,,8601,0,11,38,70,2,2,1,English
+4,to plug in,,2268,0,11,38,70,2,2,1,English
+5,to keep up,,20554,0,11,38,70,2,2,1,English
+6,to be supposed to,18,158126,1,11,38,70,2,2,1,English
+7,maid of honour,,2430,0,11,38,70,2,1,1,English
+8,I used to,7,68648,1,11,38,70,2,2,1,English
+9,on the same page,,2889,0,11,38,70,2,1,1,English
+10,a vow of silence,4,575,1,11,38,70,2,1,1,English
+11,no big deal,6,13979,1,11,38,70,2,2,1,English
+12,on your own,3,26888,1,11,38,70,2,1,1,English
+13,do for a living,3,4899,1,11,38,70,2,2,1,English
+14,Jalapeño poppers,4,60,1,11,38,70,2,2,1,English
+15,catch a cold,,2344,0,11,38,70,2,2,1,English
+18,why don't you,12,51952,1,11,38,70,2,2,1,English
+19,a marriage councelor,3,176,1,11,38,70,2,2,1,English
+20,proud of you,3,25471,1,11,38,70,2,2,1,English
+21,say no more,3,3487,1,11,38,70,2,3,2,English
+22,show somebody around,,4902,0,11,38,70,2,2,1,English
+23,figure out,15,89129,1,11,38,70,2,2,1,English
+24,break a promise,3,482,1,11,38,70,2,1,1,English
+25,give me a hand,,18448,0,11,38,70,2,2,1,English
+26,go ahead,3,130817,1,11,38,70,2,2,1,English
+27,pretend to be,5,18299,1,11,38,70,2,2,1,English
+29,to lie down,,22256,0,11,38,70,2,2,1,English
+30,I would rather,3,44548,1,11,38,70,2,2,1,English
+31,designated driver,3,611,1,11,38,70,2,2,1,English
+32,find a way to,4,20085,1,11,38,70,2,2,1,English
+33,stretch your legs,,1430,0,11,38,70,2,2,1,English
+34,to look for,3,15246,1,11,38,70,2,2,1,English
+36,look out for each other,,895,0,11,38,70,2,2,1,English
+37,best man,3,10717,1,11,38,70,2,2,1,English
+38,to show up,3,7125,1,11,38,70,2,2,1,English
+40,to make sure,3,46557,1,11,38,70,2,2,1,English
+41,to be allowed to,3,581,1,11,38,70,2,1,1,English
+42,let you down,3,8384,1,11,38,70,2,2,1,English
+43,grocery store,3,4060,1,11,38,70,2,2,1,English
+44,a bunch of,3,55410,1,11,38,70,2,1,1,English
+45,to get in touch with,,8118,0,11,38,70,2,2,1,English
+111,Ik heb beloofd,4,555,1,11,38,70,2,1.00,1,Dutch
+112,In deze buurt,10,5645,1,11,38,70,2,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,11,38,70,2,1.00,1,Dutch
+116,Zich vervelen,,1390,0,11,38,70,2,1.00,1,Dutch
+117,Je hoort hier,10,455,1,11,38,70,2,1.00,1,Dutch
+118,Maak in orde,,3388,0,11,38,70,2,1.00,1,Dutch
+119,Ik dacht dat,7,65317,1,11,38,70,2,2.00,1,Dutch
+200,Naar buiten,4,260816,1,11,38,70,2,1.00,1,Dutch
+201,Ik ben vermoord,5,18,1,11,38,70,2,2.00,1,Dutch
+202,Volgens mij,,435667,0,11,38,70,2,1.00,1,Dutch
+203,Gleed weg,,180,0,11,38,70,2,1.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,11,38,70,2,3.00,2,Dutch
+205,ik trakteer,,306,0,11,38,70,2,1.00,1,Dutch
+206,Geen zorgen,7,62783,1,11,38,70,2,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,11,38,70,2,1.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,11,38,70,2,2.00,1,Dutch
+209,Ik heb geen zin,,5288,0,11,38,70,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,11,38,70,2,1.00,1,Dutch
+211,Voor altijd,5,50382,1,11,38,70,2,1.00,1,Dutch
+212,Achter de rug,,57970,0,11,38,70,2,1.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,11,38,70,2,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,11,38,70,2,1.00,1,Dutch
+215,Dit is vreselijk,3,156,1,11,38,70,2,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,11,38,70,2,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,11,38,70,2,1.00,1,Dutch
+218,Niet te geloven,3,10514,1,11,38,70,2,1.00,1,Dutch
+219,Zeg het maar,,3720,0,11,38,70,2,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,11,38,70,2,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,11,38,70,2,1.00,1,Dutch
+222,ga je mee,,4536,0,11,38,70,2,2.00,1,Dutch
+223,De slechte plek,15,139,1,11,38,70,2,2.00,1,Dutch
+224,Kijk maar,3,49858,1,11,38,70,2,2.00,1,Dutch
+225,Maak klaar,,5044,0,11,38,70,2,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,11,38,70,2,2.00,1,Dutch
+227,Iemand anders,5,108062,1,11,38,70,2,1.00,1,Dutch
+228,Leuk weetje,4,6535,1,11,38,70,2,1.00,1,Dutch
+229,De goeie plek,21,270,1,11,38,70,2,1.00,1,Dutch
+230,Ben gek op,,6409,0,11,38,70,2,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,11,38,70,2,3.00,2,Dutch
+232,Het spijt me,11,9737,1,11,38,70,2,2.00,1,Dutch
+1,to drop me off,,10661,0,15,70,70,2,2,1,English
+2,a rough patch,,1193,0,15,70,70,2,1,1,English
+3,give me a ride,,8601,0,15,70,70,2,1,1,English
+4,to plug in,,2268,0,15,70,70,2,2,1,English
+5,to keep up,,20554,0,15,70,70,2,2,1,English
+6,to be supposed to,18,158126,1,15,70,70,2,1,1,English
+7,maid of honour,,2430,0,15,70,70,2,1,1,English
+8,I used to,7,68648,1,15,70,70,2,4,2,English
+9,on the same page,,2889,0,15,70,70,2,2,1,English
+10,a vow of silence,4,575,1,15,70,70,2,2,1,English
+11,no big deal,6,13979,1,15,70,70,2,3,2,English
+12,on your own,3,26888,1,15,70,70,2,2,1,English
+13,do for a living,3,4899,1,15,70,70,2,2,1,English
+14,Jalapeño poppers,4,60,1,15,70,70,2,1,1,English
+15,catch a cold,,2344,0,15,70,70,2,2,1,English
+18,why don't you,12,51952,1,15,70,70,2,2,1,English
+19,a marriage councelor,3,176,1,15,70,70,2,1,1,English
+20,proud of you,3,25471,1,15,70,70,2,4,2,English
+21,say no more,3,3487,1,15,70,70,2,2,1,English
+22,show somebody around,,4902,0,15,70,70,2,2,1,English
+23,figure out,15,89129,1,15,70,70,2,2,1,English
+24,break a promise,3,482,1,15,70,70,2,4,2,English
+25,give me a hand,,18448,0,15,70,70,2,2,1,English
+26,go ahead,3,130817,1,15,70,70,2,2,1,English
+27,pretend to be,5,18299,1,15,70,70,2,2,1,English
+29,to lie down,,22256,0,15,70,70,2,2,1,English
+30,I would rather,3,44548,1,15,70,70,2,4,2,English
+31,designated driver,3,611,1,15,70,70,2,1,1,English
+32,find a way to,4,20085,1,15,70,70,2,3,2,English
+33,stretch your legs,,1430,0,15,70,70,2,3,2,English
+34,to look for,3,15246,1,15,70,70,2,2,1,English
+36,look out for each other,,895,0,15,70,70,2,2,1,English
+37,best man,3,10717,1,15,70,70,2,2,1,English
+38,to show up,3,7125,1,15,70,70,2,2,1,English
+40,to make sure,3,46557,1,15,70,70,2,2,1,English
+41,to be allowed to,3,581,1,15,70,70,2,4,2,English
+42,let you down,3,8384,1,15,70,70,2,3,2,English
+43,grocery store,3,4060,1,15,70,70,2,3,2,English
+44,a bunch of,3,55410,1,15,70,70,2,1,1,English
+45,to get in touch with,,8118,0,15,70,70,2,2,1,English
+111,Ik heb beloofd,4,555,1,15,70,70,2,2.00,1,Dutch
+112,In deze buurt,10,5645,1,15,70,70,2,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,15,70,70,2,1.00,1,Dutch
+116,Zich vervelen,,1390,0,15,70,70,2,2.00,1,Dutch
+117,Je hoort hier,10,455,1,15,70,70,2,2.00,1,Dutch
+118,Maak in orde,,3388,0,15,70,70,2,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,15,70,70,2,1.00,1,Dutch
+200,Naar buiten,4,260816,1,15,70,70,2,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,15,70,70,2,2.00,1,Dutch
+202,Volgens mij,,435667,0,15,70,70,2,2.00,1,Dutch
+203,Gleed weg,,180,0,15,70,70,2,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,15,70,70,2,4.00,2,Dutch
+205,ik trakteer,,306,0,15,70,70,2,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,15,70,70,2,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,15,70,70,2,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,15,70,70,2,2.00,1,Dutch
+209,Ik heb geen zin,,5288,0,15,70,70,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,15,70,70,2,1.00,1,Dutch
+211,Voor altijd,5,50382,1,15,70,70,2,3.00,2,Dutch
+212,Achter de rug,,57970,0,15,70,70,2,1.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,15,70,70,2,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,15,70,70,2,4.00,2,Dutch
+215,Dit is vreselijk,3,156,1,15,70,70,2,2.00,1,Dutch
+216,Zinkput des verderfs,6,,1,15,70,70,2,2.00,1,Dutch
+217,Ik ben toe aan,,465,0,15,70,70,2,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,15,70,70,2,1.00,1,Dutch
+219,Zeg het maar,,3720,0,15,70,70,2,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,15,70,70,2,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,15,70,70,2,3.00,2,Dutch
+222,ga je mee,,4536,0,15,70,70,2,1.00,1,Dutch
+223,De slechte plek,15,139,1,15,70,70,2,2.00,1,Dutch
+224,Kijk maar,3,49858,1,15,70,70,2,3.00,2,Dutch
+225,Maak klaar,,5044,0,15,70,70,2,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,15,70,70,2,2.00,1,Dutch
+227,Iemand anders,5,108062,1,15,70,70,2,2.00,1,Dutch
+228,Leuk weetje,4,6535,1,15,70,70,2,2.00,1,Dutch
+229,De goeie plek,21,270,1,15,70,70,2,1.00,1,Dutch
+230,Ben gek op,,6409,0,15,70,70,2,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,15,70,70,2,4.00,2,Dutch
+232,Het spijt me,11,9737,1,15,70,70,2,2.00,1,Dutch
+1,to drop me off,,10661,0,17,57,70,2,2,1,English
+2,a rough patch,,1193,0,17,57,70,2,1,1,English
+3,give me a ride,,8601,0,17,57,70,2,2,1,English
+4,to plug in,,2268,0,17,57,70,2,2,1,English
+5,to keep up,,20554,0,17,57,70,2,2,1,English
+6,to be supposed to,18,158126,1,17,57,70,2,1,1,English
+7,maid of honour,,2430,0,17,57,70,2,2,1,English
+8,I used to,7,68648,1,17,57,70,2,2,1,English
+9,on the same page,,2889,0,17,57,70,2,1,1,English
+10,a vow of silence,4,575,1,17,57,70,2,1,1,English
+11,no big deal,6,13979,1,17,57,70,2,2,1,English
+12,on your own,3,26888,1,17,57,70,2,2,1,English
+13,do for a living,3,4899,1,17,57,70,2,2,1,English
+14,Jalapeño poppers,4,60,1,17,57,70,2,2,1,English
+15,catch a cold,,2344,0,17,57,70,2,1,1,English
+18,why don't you,12,51952,1,17,57,70,2,2,1,English
+19,a marriage councelor,3,176,1,17,57,70,2,1,1,English
+20,proud of you,3,25471,1,17,57,70,2,1,1,English
+21,say no more,3,3487,1,17,57,70,2,2,1,English
+22,show somebody around,,4902,0,17,57,70,2,2,1,English
+23,figure out,15,89129,1,17,57,70,2,2,1,English
+24,break a promise,3,482,1,17,57,70,2,1,1,English
+25,give me a hand,,18448,0,17,57,70,2,2,1,English
+26,go ahead,3,130817,1,17,57,70,2,1,1,English
+27,pretend to be,5,18299,1,17,57,70,2,2,1,English
+29,to lie down,,22256,0,17,57,70,2,2,1,English
+30,I would rather,3,44548,1,17,57,70,2,2,1,English
+31,designated driver,3,611,1,17,57,70,2,1,1,English
+32,find a way to,4,20085,1,17,57,70,2,1,1,English
+33,stretch your legs,,1430,0,17,57,70,2,2,1,English
+34,to look for,3,15246,1,17,57,70,2,2,1,English
+36,look out for each other,,895,0,17,57,70,2,1,1,English
+37,best man,3,10717,1,17,57,70,2,2,1,English
+38,to show up,3,7125,1,17,57,70,2,2,1,English
+40,to make sure,3,46557,1,17,57,70,2,2,1,English
+41,to be allowed to,3,581,1,17,57,70,2,1,1,English
+42,let you down,3,8384,1,17,57,70,2,2,1,English
+43,grocery store,3,4060,1,17,57,70,2,3,2,English
+44,a bunch of,3,55410,1,17,57,70,2,1,1,English
+45,to get in touch with,,8118,0,17,57,70,2,2,1,English
+111,Ik heb beloofd,4,555,1,17,57,70,2,2.00,1,Dutch
+112,In deze buurt,10,5645,1,17,57,70,2,2.00,1,Dutch
+113,Wees voorzichtig,,8520,0,17,57,70,2,1.00,1,Dutch
+116,Zich vervelen,,1390,0,17,57,70,2,1.00,1,Dutch
+117,Je hoort hier,10,455,1,17,57,70,2,2.00,1,Dutch
+118,Maak in orde,,3388,0,17,57,70,2,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,17,57,70,2,2.00,1,Dutch
+200,Naar buiten,4,260816,1,17,57,70,2,3.00,2,Dutch
+201,Ik ben vermoord,5,18,1,17,57,70,2,2.00,1,Dutch
+202,Volgens mij,,435667,0,17,57,70,2,2.00,1,Dutch
+203,Gleed weg,,180,0,17,57,70,2,2.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,17,57,70,2,3.00,2,Dutch
+205,ik trakteer,,306,0,17,57,70,2,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,17,57,70,2,1.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,17,57,70,2,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,17,57,70,2,2.00,1,Dutch
+209,Ik heb geen zin,,5288,0,17,57,70,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,17,57,70,2,2.00,1,Dutch
+211,Voor altijd,5,50382,1,17,57,70,2,2.00,1,Dutch
+212,Achter de rug,,57970,0,17,57,70,2,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,17,57,70,2,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,17,57,70,2,4.00,2,Dutch
+215,Dit is vreselijk,3,156,1,17,57,70,2,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,17,57,70,2,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,17,57,70,2,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,17,57,70,2,2.00,1,Dutch
+219,Zeg het maar,,3720,0,17,57,70,2,1.00,1,Dutch
+220,Mijn hele leven,3,11092,1,17,57,70,2,2.00,1,Dutch
+221,Wat gezellig!,,2476,0,17,57,70,2,2.00,1,Dutch
+222,ga je mee,,4536,0,17,57,70,2,2.00,1,Dutch
+223,De slechte plek,15,139,1,17,57,70,2,4.00,2,Dutch
+224,Kijk maar,3,49858,1,17,57,70,2,3.00,2,Dutch
+225,Maak klaar,,5044,0,17,57,70,2,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,17,57,70,2,2.00,1,Dutch
+227,Iemand anders,5,108062,1,17,57,70,2,4.00,2,Dutch
+228,Leuk weetje,4,6535,1,17,57,70,2,2.00,1,Dutch
+229,De goeie plek,21,270,1,17,57,70,2,4.00,2,Dutch
+230,Ben gek op,,6409,0,17,57,70,2,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,17,57,70,2,4.00,2,Dutch
+232,Het spijt me,11,9737,1,17,57,70,2,2.00,1,Dutch
+1,to drop me off,,10661,0,18,54,72,2,2,1,English
+2,a rough patch,,1193,0,18,54,72,2,1,1,English
+3,give me a ride,,8601,0,18,54,72,2,2,1,English
+4,to plug in,,2268,0,18,54,72,2,2,1,English
+5,to keep up,,20554,0,18,54,72,2,2,1,English
+6,to be supposed to,18,158126,1,18,54,72,2,2,1,English
+7,maid of honour,,2430,0,18,54,72,2,2,1,English
+8,I used to,7,68648,1,18,54,72,2,2,1,English
+9,on the same page,,2889,0,18,54,72,2,2,1,English
+10,a vow of silence,4,575,1,18,54,72,2,1,1,English
+11,no big deal,6,13979,1,18,54,72,2,3,2,English
+12,on your own,3,26888,1,18,54,72,2,2,1,English
+13,do for a living,3,4899,1,18,54,72,2,2,1,English
+14,Jalapeño poppers,4,60,1,18,54,72,2,1,1,English
+15,catch a cold,,2344,0,18,54,72,2,4,2,English
+18,why don't you,12,51952,1,18,54,72,2,2,1,English
+19,a marriage councelor,3,176,1,18,54,72,2,1,1,English
+20,proud of you,3,25471,1,18,54,72,2,4,2,English
+21,say no more,3,3487,1,18,54,72,2,4,2,English
+22,show somebody around,,4902,0,18,54,72,2,2,1,English
+23,figure out,15,89129,1,18,54,72,2,1,1,English
+24,break a promise,3,482,1,18,54,72,2,4,2,English
+25,give me a hand,,18448,0,18,54,72,2,2,1,English
+26,go ahead,3,130817,1,18,54,72,2,2,1,English
+27,pretend to be,5,18299,1,18,54,72,2,2,1,English
+29,to lie down,,22256,0,18,54,72,2,2,1,English
+30,I would rather,3,44548,1,18,54,72,2,2,1,English
+31,designated driver,3,611,1,18,54,72,2,2,1,English
+32,find a way to,4,20085,1,18,54,72,2,4,2,English
+33,stretch your legs,,1430,0,18,54,72,2,4,2,English
+34,to look for,3,15246,1,18,54,72,2,2,1,English
+36,look out for each other,,895,0,18,54,72,2,4,2,English
+37,best man,3,10717,1,18,54,72,2,2,1,English
+38,to show up,3,7125,1,18,54,72,2,2,1,English
+40,to make sure,3,46557,1,18,54,72,2,2,1,English
+41,to be allowed to,3,581,1,18,54,72,2,2,1,English
+42,let you down,3,8384,1,18,54,72,2,2,1,English
+43,grocery store,3,4060,1,18,54,72,2,4,2,English
+44,a bunch of,3,55410,1,18,54,72,2,2,1,English
+45,to get in touch with,,8118,0,18,54,72,2,2,1,English
+111,Ik heb beloofd,4,555,1,18,54,72,2,1.00,1,Dutch
+112,In deze buurt,10,5645,1,18,54,72,2,4.00,2,Dutch
+113,Wees voorzichtig,,8520,0,18,54,72,2,1.00,1,Dutch
+116,Zich vervelen,,1390,0,18,54,72,2,1.00,1,Dutch
+117,Je hoort hier,10,455,1,18,54,72,2,2.00,1,Dutch
+118,Maak in orde,,3388,0,18,54,72,2,1.00,1,Dutch
+119,Ik dacht dat,7,65317,1,18,54,72,2,2.00,1,Dutch
+200,Naar buiten,4,260816,1,18,54,72,2,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,18,54,72,2,1.00,1,Dutch
+202,Volgens mij,,435667,0,18,54,72,2,2.00,1,Dutch
+203,Gleed weg,,180,0,18,54,72,2,1.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,18,54,72,2,4.00,2,Dutch
+205,ik trakteer,,306,0,18,54,72,2,1.00,1,Dutch
+206,Geen zorgen,7,62783,1,18,54,72,2,1.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,18,54,72,2,2.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,18,54,72,2,1.00,1,Dutch
+209,Ik heb geen zin,,5288,0,18,54,72,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,18,54,72,2,1.00,1,Dutch
+211,Voor altijd,5,50382,1,18,54,72,2,2.00,1,Dutch
+212,Achter de rug,,57970,0,18,54,72,2,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,18,54,72,2,2.00,1,Dutch
+214,Ik weet het niet,26,26138,1,18,54,72,2,2.00,1,Dutch
+215,Dit is vreselijk,3,156,1,18,54,72,2,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,18,54,72,2,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,18,54,72,2,1.00,1,Dutch
+218,Niet te geloven,3,10514,1,18,54,72,2,1.00,1,Dutch
+219,Zeg het maar,,3720,0,18,54,72,2,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,18,54,72,2,1.00,1,Dutch
+221,Wat gezellig!,,2476,0,18,54,72,2,2.00,1,Dutch
+222,ga je mee,,4536,0,18,54,72,2,1.00,1,Dutch
+223,De slechte plek,15,139,1,18,54,72,2,2.00,1,Dutch
+224,Kijk maar,3,49858,1,18,54,72,2,3.00,2,Dutch
+225,Maak klaar,,5044,0,18,54,72,2,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,18,54,72,2,1.00,1,Dutch
+227,Iemand anders,5,108062,1,18,54,72,2,2.00,1,Dutch
+228,Leuk weetje,4,6535,1,18,54,72,2,1.00,1,Dutch
+229,De goeie plek,21,270,1,18,54,72,2,1.00,1,Dutch
+230,Ben gek op,,6409,0,18,54,72,2,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,18,54,72,2,4.00,2,Dutch
+232,Het spijt me,11,9737,1,18,54,72,2,1.00,1,Dutch
+1,to drop me off,,10661,0,19,45,42,2,1,1,English
+2,a rough patch,,1193,0,19,45,42,2,1,1,English
+3,give me a ride,,8601,0,19,45,42,2,1,1,English
+4,to plug in,,2268,0,19,45,42,2,1,1,English
+5,to keep up,,20554,0,19,45,42,2,2,1,English
+6,to be supposed to,18,158126,1,19,45,42,2,2,1,English
+7,maid of honour,,2430,0,19,45,42,2,1,1,English
+8,I used to,7,68648,1,19,45,42,2,2,1,English
+9,on the same page,,2889,0,19,45,42,2,1,1,English
+10,a vow of silence,4,575,1,19,45,42,2,1,1,English
+11,no big deal,6,13979,1,19,45,42,2,2,1,English
+12,on your own,3,26888,1,19,45,42,2,1,1,English
+13,do for a living,3,4899,1,19,45,42,2,2,1,English
+14,Jalapeño poppers,4,60,1,19,45,42,2,1,1,English
+15,catch a cold,,2344,0,19,45,42,2,2,1,English
+18,why don't you,12,51952,1,19,45,42,2,2,1,English
+19,a marriage councelor,3,176,1,19,45,42,2,2,1,English
+20,proud of you,3,25471,1,19,45,42,2,2,1,English
+21,say no more,3,3487,1,19,45,42,2,2,1,English
+22,show somebody around,,4902,0,19,45,42,2,2,1,English
+23,figure out,15,89129,1,19,45,42,2,1,1,English
+24,break a promise,3,482,1,19,45,42,2,2,1,English
+25,give me a hand,,18448,0,19,45,42,2,1,1,English
+26,go ahead,3,130817,1,19,45,42,2,1,1,English
+27,pretend to be,5,18299,1,19,45,42,2,1,1,English
+29,to lie down,,22256,0,19,45,42,2,2,1,English
+30,I would rather,3,44548,1,19,45,42,2,2,1,English
+31,designated driver,3,611,1,19,45,42,2,1,1,English
+32,find a way to,4,20085,1,19,45,42,2,2,1,English
+33,stretch your legs,,1430,0,19,45,42,2,1,1,English
+34,to look for,3,15246,1,19,45,42,2,2,1,English
+36,look out for each other,,895,0,19,45,42,2,1,1,English
+37,best man,3,10717,1,19,45,42,2,2,1,English
+38,to show up,3,7125,1,19,45,42,2,2,1,English
+40,to make sure,3,46557,1,19,45,42,2,2,1,English
+41,to be allowed to,3,581,1,19,45,42,2,2,1,English
+42,let you down,3,8384,1,19,45,42,2,2,1,English
+43,grocery store,3,4060,1,19,45,42,2,1,1,English
+44,a bunch of,3,55410,1,19,45,42,2,1,1,English
+45,to get in touch with,,8118,0,19,45,42,2,2,1,English
+111,Ik heb beloofd,4,555,1,19,45,42,2,2.00,1,Dutch
+112,In deze buurt,10,5645,1,19,45,42,2,1.00,1,Dutch
+113,Wees voorzichtig,,8520,0,19,45,42,2,2.00,1,Dutch
+116,Zich vervelen,,1390,0,19,45,42,2,1.00,1,Dutch
+117,Je hoort hier,10,455,1,19,45,42,2,2.00,1,Dutch
+118,Maak in orde,,3388,0,19,45,42,2,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,19,45,42,2,2.00,1,Dutch
+200,Naar buiten,4,260816,1,19,45,42,2,1.00,1,Dutch
+201,Ik ben vermoord,5,18,1,19,45,42,2,2.00,1,Dutch
+202,Volgens mij,,435667,0,19,45,42,2,2.00,1,Dutch
+203,Gleed weg,,180,0,19,45,42,2,1.00,1,Dutch
+204,Ik begrijp het niet,7,1708,1,19,45,42,2,1.00,1,Dutch
+205,ik trakteer,,306,0,19,45,42,2,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,19,45,42,2,2.00,1,Dutch
+207,Wat is er aan de hand,4,5709,1,19,45,42,2,1.00,1,Dutch
+208,Wat gebeurt er,6,43298,1,19,45,42,2,1.00,1,Dutch
+209,Ik heb geen zin,,5288,0,19,45,42,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,19,45,42,2,2.00,1,Dutch
+211,Voor altijd,5,50382,1,19,45,42,2,1.00,1,Dutch
+212,Achter de rug,,57970,0,19,45,42,2,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,19,45,42,2,1.00,1,Dutch
+214,Ik weet het niet,26,26138,1,19,45,42,2,1.00,1,Dutch
+215,Dit is vreselijk,3,156,1,19,45,42,2,1.00,1,Dutch
+216,Zinkput des verderfs,6,,1,19,45,42,2,1.00,1,Dutch
+217,Ik ben toe aan,,465,0,19,45,42,2,1.00,1,Dutch
+218,Niet te geloven,3,10514,1,19,45,42,2,2.00,1,Dutch
+219,Zeg het maar,,3720,0,19,45,42,2,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,19,45,42,2,1.00,1,Dutch
+221,Wat gezellig!,,2476,0,19,45,42,2,2.00,1,Dutch
+222,ga je mee,,4536,0,19,45,42,2,2.00,1,Dutch
+223,De slechte plek,15,139,1,19,45,42,2,1.00,1,Dutch
+224,Kijk maar,3,49858,1,19,45,42,2,1.00,1,Dutch
+225,Maak klaar,,5044,0,19,45,42,2,2.00,1,Dutch
+226,Ik ben dol op,6,8180,1,19,45,42,2,1.00,1,Dutch
+227,Iemand anders,5,108062,1,19,45,42,2,1.00,1,Dutch
+228,Leuk weetje,4,6535,1,19,45,42,2,1.00,1,Dutch
+229,De goeie plek,21,270,1,19,45,42,2,1.00,1,Dutch
+230,Ben gek op,,6409,0,19,45,42,2,1.00,1,Dutch
+231,Ik hou van je,4,3476,1,19,45,42,2,2.00,1,Dutch
+232,Het spijt me,11,9737,1,19,45,42,2,1.00,1,Dutch
+1,to drop me off,,10661,0,20,52,62,2,2,1,English
+2,a rough patch,,1193,0,20,52,62,2,2,1,English
+3,give me a ride,,8601,0,20,52,62,2,2,1,English
+4,to plug in,,2268,0,20,52,62,2,2,1,English
+5,to keep up,,20554,0,20,52,62,2,2,1,English
+6,to be supposed to,18,158126,1,20,52,62,2,2,1,English
+7,maid of honour,,2430,0,20,52,62,2,2,1,English
+8,I used to,7,68648,1,20,52,62,2,2,1,English
+9,on the same page,,2889,0,20,52,62,2,2,1,English
+10,a vow of silence,4,575,1,20,52,62,2,1,1,English
+11,no big deal,6,13979,1,20,52,62,2,2,1,English
+12,on your own,3,26888,1,20,52,62,2,1,1,English
+13,do for a living,3,4899,1,20,52,62,2,1,1,English
+14,Jalapeño poppers,4,60,1,20,52,62,2,1,1,English
+15,catch a cold,,2344,0,20,52,62,2,1,1,English
+18,why don't you,12,51952,1,20,52,62,2,1,1,English
+19,a marriage councelor,3,176,1,20,52,62,2,2,1,English
+20,proud of you,3,25471,1,20,52,62,2,2,1,English
+21,say no more,3,3487,1,20,52,62,2,2,1,English
+22,show somebody around,,4902,0,20,52,62,2,2,1,English
+23,figure out,15,89129,1,20,52,62,2,2,1,English
+24,break a promise,3,482,1,20,52,62,2,2,1,English
+25,give me a hand,,18448,0,20,52,62,2,2,1,English
+26,go ahead,3,130817,1,20,52,62,2,2,1,English
+27,pretend to be,5,18299,1,20,52,62,2,2,1,English
+29,to lie down,,22256,0,20,52,62,2,2,1,English
+30,I would rather,3,44548,1,20,52,62,2,2,1,English
+31,designated driver,3,611,1,20,52,62,2,2,1,English
+32,find a way to,4,20085,1,20,52,62,2,2,1,English
+33,stretch your legs,,1430,0,20,52,62,2,2,1,English
+34,to look for,3,15246,1,20,52,62,2,2,1,English
+36,look out for each other,,895,0,20,52,62,2,2,1,English
+37,best man,3,10717,1,20,52,62,2,2,1,English
+38,to show up,3,7125,1,20,52,62,2,2,1,English
+40,to make sure,3,46557,1,20,52,62,2,2,1,English
+41,to be allowed to,3,581,1,20,52,62,2,2,1,English
+42,let you down,3,8384,1,20,52,62,2,2,1,English
+43,grocery store,3,4060,1,20,52,62,2,2,1,English
+44,a bunch of,3,55410,1,20,52,62,2,2,1,English
+45,to get in touch with,,8118,0,20,52,62,2,2,1,English
+111,Ik heb beloofd,4,555,1,20,52,62,2,2.00,1,Dutch
+112,In deze buurt,10,5645,1,20,52,62,2,3.00,2,Dutch
+113,Wees voorzichtig,,8520,0,20,52,62,2,3.00,2,Dutch
+116,Zich vervelen,,1390,0,20,52,62,2,3.00,2,Dutch
+117,Je hoort hier,10,455,1,20,52,62,2,2.00,1,Dutch
+118,Maak in orde,,3388,0,20,52,62,2,2.00,1,Dutch
+119,Ik dacht dat,7,65317,1,20,52,62,2,3.00,2,Dutch
+200,Naar buiten,4,260816,1,20,52,62,2,2.00,1,Dutch
+201,Ik ben vermoord,5,18,1,20,52,62,2,2.00,1,Dutch
+202,Volgens mij,,435667,0,20,52,62,2,3.00,2,Dutch
+203,Gleed weg,,180,0,20,52,62,2,3.00,2,Dutch
+204,Ik begrijp het niet,7,1708,1,20,52,62,2,2.00,1,Dutch
+205,ik trakteer,,306,0,20,52,62,2,2.00,1,Dutch
+206,Geen zorgen,7,62783,1,20,52,62,2,3.00,2,Dutch
+207,Wat is er aan de hand,4,5709,1,20,52,62,2,3.00,2,Dutch
+208,Wat gebeurt er,6,43298,1,20,52,62,2,3.00,2,Dutch
+209,Ik heb geen zin,,5288,0,20,52,62,2,2.00,1,Dutch
+210,Mijn zielsverwant,7,104,1,20,52,62,2,2.00,1,Dutch
+211,Voor altijd,5,50382,1,20,52,62,2,3.00,2,Dutch
+212,Achter de rug,,57970,0,20,52,62,2,2.00,1,Dutch
+213,Je hebt gelijk,5,17746,1,20,52,62,2,3.00,2,Dutch
+214,Ik weet het niet,26,26138,1,20,52,62,2,3.00,2,Dutch
+215,Dit is vreselijk,3,156,1,20,52,62,2,2.00,1,Dutch
+216,Zinkput des verderfs,6,,1,20,52,62,2,2.00,1,Dutch
+217,Ik ben toe aan,,465,0,20,52,62,2,2.00,1,Dutch
+218,Niet te geloven,3,10514,1,20,52,62,2,2.00,1,Dutch
+219,Zeg het maar,,3720,0,20,52,62,2,2.00,1,Dutch
+220,Mijn hele leven,3,11092,1,20,52,62,2,3.00,2,Dutch
+221,Wat gezellig!,,2476,0,20,52,62,2,3.00,2,Dutch
+222,ga je mee,,4536,0,20,52,62,2,2.00,1,Dutch
+223,De slechte plek,15,139,1,20,52,62,2,2.00,1,Dutch
+224,Kijk maar,3,49858,1,20,52,62,2,3.00,2,Dutch
+225,Maak klaar,,5044,0,20,52,62,2,3.00,2,Dutch
+226,Ik ben dol op,6,8180,1,20,52,62,2,3.00,2,Dutch
+227,Iemand anders,5,108062,1,20,52,62,2,3.00,2,Dutch
+228,Leuk weetje,4,6535,1,20,52,62,2,3.00,2,Dutch
+229,De goeie plek,21,270,1,20,52,62,2,2.00,1,Dutch
+230,Ben gek op,,6409,0,20,52,62,2,2.00,1,Dutch
+231,Ik hou van je,4,3476,1,20,52,62,2,2.00,1,Dutch
+232,Het spijt me,11,9737,1,20,52,62,2,3.00,2,Dutch
